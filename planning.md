@@ -11,7 +11,7 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
----
+--- For the purposes of this project, I chose the Academic domain and helping incoming and current students at the university of central florida answer class related questions, reviews on professors / classes as well as acadmic advisor related questions. The information is difficult to find otherwise since the information is often times stored in random sites containing a lot of information or there are informal reviews from students themselves which are not present in the official documents / scattered across various platforms. 
 
 ## Documents
 
@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | RMF | Used to gather overall ratings / reviews on university overall | https://www.ratemyprofessors.com/school/1082 
+| 2 | RMF | Used to gather overall ratings / reviews on specific professors at UCF | https://www.ratemyprofessors.com/search/professors/1082?q=*
+| 3 | UCF Subreddit (Academic Filter) | Used to gather overall ratings / reviews on specific courses / thoughts on courses at UCF | https://www.reddit.com/r/ucf/?f=flair_name%3A%22Academic%20%E2%9C%8F%EF%B8%8F%22 
+| 4 | UCF Simple Syllabus Repository | Used to gain information regarding specific information about various courses at UCF offered by specific professors | https://ucf.simplesyllabus.com/en-US/syllabus-library 
+| 5 | Undergraduate Catalog | Contains information regarding official Academic Advising documents | https://www.ucf.edu/catalog/undergraduate/#/content/66bcc88ff93938001c54838a 
+| 6 | Undergraduate Catalog | Contains information regarding official services for Academic Advancement and Success | https://www.ucf.edu/catalog/undergraduate/#/content/66bcc898f93938001c5483da
+| 7 | Undergraduate Catalog | Contains information regarding Student Financial Assistance and information regarding student aid | https://www.ucf.edu/catalog/undergraduate/#/content/66bcc898f93938001c5483dc
+| 8 | Undergraduate Catalog | Contains information regarding Undergraduate Admissions including orientations, applicant requirements etc | https://www.ucf.edu/catalog/undergraduate/#/content/66bcc898f93938001c5483db
+| 9 | Undergraduate Catalog | Contains information regarding University Campus Resources | https://www.ucf.edu/catalog/undergraduate/#/content/66bcc88df93938001c54837a
+| 10 | Undergraduate Catalog | Contains information regarding Academic Programs and Research Institudes at UCF | https://www.ucf.edu/catalog/undergraduate/#/content/66bcc88df93938001c54837b
 
 ---
 
