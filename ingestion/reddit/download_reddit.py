@@ -27,7 +27,8 @@ def main():
     print("Starting UCF Subreddit PullPush downloader...")
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    output_filepath = os.path.join(script_dir, "documents", "reddit_raw.json")
+    project_root = os.path.dirname(os.path.dirname(script_dir))
+    output_filepath = os.path.join(project_root, "documents", "raw", "reddit_raw.json")
     
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"

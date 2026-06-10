@@ -47,7 +47,7 @@ Because the sources consists of four distinct types of documents (short reviews,
    - **Overlap:** 0 (independent reviews).
    - **Strategy:** _Metadata-rich Item-level Chunking_. Each review is treated as a self-contained unit. The chunk text is prefixed with structured metadata (e.g., `Professor: [Name] | Course: [Code] | Rating: [Score] | Difficulty: [Score] | Review: [Content]`) to prevent reviews from mixing or breaking.
 
-2. **UCF Subreddit (Academic Filter) Threads (Conversational):**
+2. **UCF Subreddit (Academic Filter) Threads (Conversational) [Completed]:**
    - **Chunk size:** Post + Parent Thread context pairs (~200–500 tokens / 800–2000 characters).
    - **Overlap:** 0 (logical threading).
    - **Strategy:** _Thread-Level / Q&A Pairing_. Individual replies and comments lose meaning without the post context. Chunks are flattened into Q&A text pairs containing the original post's title/content alongside the comments/replies.

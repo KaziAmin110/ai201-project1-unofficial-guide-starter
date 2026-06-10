@@ -172,11 +172,12 @@ def process_professor_reviews(filepath: str) -> list:
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    documents_dir = os.path.join(script_dir, "documents")
+    project_root = os.path.dirname(os.path.dirname(script_dir))
+    documents_dir = os.path.join(project_root, "documents")
     
-    school_filepath = os.path.join(documents_dir, "rmp_school.json")
-    prof_filepath = os.path.join(documents_dir, "rmp_professors.json")
-    output_filepath = os.path.join(documents_dir, "rmp_chunks.json")
+    school_filepath = os.path.join(documents_dir, "raw", "rmp_school.json")
+    prof_filepath = os.path.join(documents_dir, "raw", "rmp_professors.json")
+    output_filepath = os.path.join(documents_dir, "chunks", "rmp_chunks.json")
     
     print("Starting Rate My Professor ingestion pipeline...")
     

@@ -114,11 +114,12 @@ def validate_chunks(filepath: str) -> bool:
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
     
     if len(sys.argv) > 1:
         chunks_filepath = sys.argv[1]
     else:
-        chunks_filepath = os.path.join(script_dir, "documents", "rmp_chunks.json")
+        chunks_filepath = os.path.join(project_root, "documents", "chunks", "rmp_chunks.json")
         
     success = validate_chunks(chunks_filepath)
     if success:

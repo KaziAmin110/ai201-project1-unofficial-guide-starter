@@ -34,7 +34,8 @@ def main():
     ]
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    output_filepath = os.path.join(script_dir, "documents", "rmp_professors.json")
+    project_root = os.path.dirname(os.path.dirname(script_dir))
+    output_filepath = os.path.join(project_root, "documents", "raw", "rmp_professors.json")
     
     print("Initializing Rate My Professor UCF downloader...")
     
