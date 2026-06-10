@@ -1,0 +1,332 @@
+[
+  {
+    "id": "syllabus_cap4053_course_overview_0",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Overview | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nCAP 4053 - AI FOR GAME PROGRAMMING\nSection: B001\nCollege of Engineering and Computer Science\nDepartment of Computer Science\nCourse Information\nTerm: Summer 2026\nClass Meeting Days: TR\nClass Meeting Time: 03:00PM - 06:50PM\nClass Meeting Location: TCH 0103\nModality: P\nCredit Hours: 3.00",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Course Overview",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_contact_information_0",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Contact Information | Johnathan Mell\nOffice Location: Discord",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_contact_information_1",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Contact Information | After class or by appointment\nEmail: Johnathan.Mell@ucf.edu\nStudent Learning Outcomes\nAll outcomes apply to 5937 (graduate) students. Outcomes marked with a (G) only apply to\ngraduate students, and the remainder make up the 4053 (undergraduate) list.\nLearn how to make video games\n(G) Learn how to lead a video game design team\nIdentify and explain some areas of game programming that AI programmers handle that are not\ntraditionally defined by academia as AI\nExplain what makes some Game AI “good” and other Game AI “bad”\nUse the Unity game engine and tutorials to create a simple game with AI, input and other interactive\nfeatures\nEngage with your peers on Discord and communicate professionally about games\nUse basic vector operations to solve basic AI problems such as visibility cone computations\nDemonstrate understanding of the basic process of programming and how time and movement work\nin real-time systems\n(G) Deploy multiple AI systems that serve different functions within your game\nIdentify and explain methods by which modern games implement decision making\nDemonstrate understanding of various pathfinding algorithms used in modern games\nExplain basic steering of entities, and how they achieve their desired effects\nExplain how game developers use focus testing to improve their AI (G) and provide detailed analysis\nof that testing\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 1/12\n\n6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_course_description_0",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 1) | CAP 4053 ENGR-COMP SCI 3(3,0)AI for Game Programming: PR: Complete all of the followingEarn a\nminimum grade of C in each of the following: COP3502C - Computer Science I (3)or C.I. Surveys cutting-\nedge AI techniques for video games and board games and contrasts them with more traditional\napproaches. Spr\nThis is a High-Impact Course and will be noted as such on your transcript (undergrad only)!\nClassroom: <TBD>\nCourse Modality: In-person*\nWe will use Discord extensively\nWe will use Zoom occasionally. See homepage for individual section links.\n*see below regarding illness and recorded lectures\nPast game streams are available on YouTube\nThis a project-based course in which small groups will build a game, learning a great deal about how to\ndo so in the process. This includes:\nlearning quite a bit about programming in the practical sense\nlearning both AI and “traditional” techniques for creating video games\nlearning about what games ARE, and how to formally talk about them\nlearning how to make games fun\nlearning a small amount about the business and economics of game-making\nSome groups will include a graduate student \"team lead\". This team lead will be responsible for project\nmanaging the course, working with the other team members to deploy a more complex and ambitious\nproject. This means as a graduate student, you will have additional responsibilities to manage your team,\nand the overall project will benefit from your involvement (although the expectations for the whole team\nwill be commensurately higher).\nThe vast majority of your grade in this course is made up of several checkpoints in making a game. Doing\na good job with making your game will mean you are almost certain to pass the course. Hopefully, you\nwill also find the experience enjoyable!",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_course_description_1",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 2) | Note: this class is exam-lite, but requires a substantial amount of time outside class. Especially if you\nare simultaneously enrolled in Senior Design, this can be daunting! Start early, and have regular meetings,\nwith at least some in-person.\nRequired Course Materials and Resources\nGameAI Pro\nNotes: Optional resource! GameAI Pro is a reference guide, and generally I will not assign readings from\nit. It should be used to help guide your development, and reading it is recommended to help elaborate on\nlecture content.\nOnline Access: https://www.gameaipro.com/\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 2/12",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_course_description_2",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 3) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nClass Schedule\nSee the Webcourses homepage for the most up to date schedule.\nCourse Assessment and Grading Procedure\nI use an “only-good curve” in my class. That means that I may choose to curve the class in your favor\n(e.g., by shifting the requirement to get an A to a lower percent). But I will not shift the curve away from\nyour favor. This means that if every student gets 94% or above, then you will all get ‘A’s (this would be my\npreference!).\nWe always evaluate games and presentations with multiple viewers and instructors to reduce the impact\nof opinion or personal preference. That said, a good game that does not otherwise stand out is\nexpected to be around a \"B\". \"A\" games are outstanding products, and \"C\" games are functional but\nflawed in several ways. \"D\" games are deeply problematic or lacking features, and \"F\" and below games\nare nearly unplayable or truly trivial efforts.\nThis is a group project. Some of your grade comes from individual assessment, but the majority comes\nfrom team assessments. It is highly unlikely that all members of your team will contribute equally, but\npeer assessments are included in order to mitigate this effect. That said, the intent is for your to succeed\nor fail as a team, as in real-world projects.\nYou will note that a substantial part of your grade is peer review. This means that you will be required to\nrate your partners by the amount of effort, skill, and help that they brought to creating the game project.\nThis will be required just after each of the three main game project deliverables. You must do your peer\nreviews at this time, but the peer reviews grades will not be visible until the end of the class (to avoid",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_course_description_3",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 4) | drama!). Actual text of peer reviews will be released on request.\nUndergraduate grade breakdown:\nPercent of Final\nAssignment Sub-part\nGrade\nGame Project 62%\nGame Design Document 15%\nMid-semester presentation (playable\n15%\nprototype)\nFinal presentation (full game) +\nexecutable binary: score comes from 30%\nBOTH parts\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 3/12",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_course_description_4",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 5) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nStatus Report 2%\nQuizzes 6%\nQuiz #1 3%\nQuiz #2 3%\nAssignments 12%\nBoard Game Showcase 3%\nUnity Practicum 3%\nTesting Assignment 3%\nLevel Design Assignment 3%\nPeer Review, Final Attendance (Final peer review is worth double) 20%\nTotal 100%\nGraduate grade breakdown:\nPercent of Final\nAssignment Sub-part\nGrade\nGame Project 60%\nGame Design Document 10%\nMid-semester presentation (playable\n10%\nprototype)\nFinal presentation (full game) +\nexecutable binary: score comes from 30%\nBOTH parts\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 4/12\n\n6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nBiweekly status reports 10%\nQuizzes 6%\nQuiz #1 3%\nQuiz #2 3%\nAssignments 14%\nBoard Game Showcase 2%\nUnity Practicum 2%\nTesting Assignment 2%\nLevel Design Assignment 2%\nTechnical Documentation Assignment 3%\nAnalysis of Playtesting Results 3%\nPeer Review, Final Attendance (Final peer review is worth double) 20%\nTotal 100%\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 5/12\n\n6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_grading_policy_0",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 1) | Letter Grade Percent range\nA 94-100\nA- 90-93\nB+ 87-89\nB 84-86\nB- 80-83\nC+ 77-79\nC 74-76\nC- 70-73\nD+ 67-69\nD 64-66\nD- 60-63\nF <60\nPast Grades\nIn the past, my grade distribution has been:\nA 30.17%\nA- 29.38%\nB+ 17.38%\nB 11.69%\nB- 8.85%\nC+ 0.95%\nC 1.11%\nC- 0.16%\nD+ or less 0.32%\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 6/12",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_grading_policy_1",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 2) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nCommunication Expectations\nMessage me on Discord or catch me in class. I recommend using @Instructor on Discord rather than\n@Prof. Mell for a faster response. Responses are normally within minutes to hours, but please allow up to\na day.\nPolicies for Course Grade\nMakeup Work Policy/Missed/Late Assignments\nPer university policy, you are allowed to submit make-up work (or an equivalent, alternate assignment) for\nauthorized university-sponsored activities, religious observances, or legal obligations (such as jury duty).\nIf this participation conflicts with your course assignments, I will offer a reasonable opportunity for you to\ncomplete missed assignments. The make-up assignment and grading scale will be equivalent to the\nmissed assignment and its grading scale. In the case of an authorized university activity, it is your\nresponsibility to show me a signed copy of the Program Verification Form for which you will be\nabsent, prior to the class in which the absence occurs. In any of these cases, please contact me ahead\nof time to notify me of upcoming needs. Missing without advanced notice is handled on a case-by-\ncase basis, but may result in zero credit!\nAttendance\nI will not generally be taking attendance as part of your grade, except the assignment work days, during\nwhich part of your grade counts toward assignments. Additionally, there will be required quizzes on the\nschedule, as indicated below. These quizzes may be taken remotely any time during a 24-hour period,\nand cannot be made up after the fact. There will be at least one 1-hour block during which TAs/graders\nwill be available over Discord for assistance and questions. Reasonable consideration will be given to",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_grading_policy_2",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 3) | circumstances of illness or personal emergency, when stated before the quiz. Forgetfulness is not a\npersonal emergency.\nSome lectures featuring guest lecturers will be conducted over Zoom. We also have a Zoom link for\nsituations when I cannot be in class (e.g. due to illness or travel). While I will make the slide decks\navailable after class, I will generally NOT make recordings available of the lectures. I do not \"read from\nthe slides\" so this means if you don't attend class, you will miss a good section of the course. I make no\nguarantees that all quiz material will be on the slides themselves; I will make assurances that I will cover\nsuch material in class.\nMake-up Assignments for Authorized University Event or Co-curricular\nActivities\nStudents who represent the university an an authorized event or activity (for example, student athletes)\nand who are unable to meet a course deadline due to a conflict with that event must provide the\ninstructor with documentation in advance to arrange a make-up. No penalty will be applied if the student\ngives advance notice and communicates with the instructor following UCF policy. In the case of an\nauthorized university activity, it is your responsibility to show the instructor a signed copy of the Program\nVerification Form for which you will be absent, prior to the class in which the absence occurs or due date\nyou need extended. For more information, see UCF Policy 4-401.\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 7/12",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_grading_policy_3",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 4) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nMake-up Assignments for Religious Observances\nA student who desires to observe a religious holy day of his or her religious faith must notify their\ninstructor as soon as practicable prior to the observance. Students who are absent because of religious\nobservances will be permitted a reasonable amount of time to complete any missed work. For more\ninformation, see UCF Regulation 5-020.\nArtificial Intelligence (AI) Use Policy\nUse of Generative AI (GenAI) is freely permitted but must be disclosed. Students are allowed to use\nGenerative Artificial Intelligence (GenAI) tools on assignments if the usage is properly disclosed and\ncredited. For example, text generated from Copilot should include a citation such as: \"Copilot. Accessed\n2023-12-03. Prompt: 'Summarize the Geneva Convention in 50 words.' Generated using Copilot.\" Any\nattempt to represent GenAI output inappropriately as your own work will be treated as plagiarism.\nUltimately, students are responsible for the accuracy and veracity of submitted work whether AI-\ngenerated or not.\nAI, LLMs, and GPT-X\nI love AI. This is an AI course. If you choose to use stable diffusion, large language models, or other AI\ntechniques to create voice clones, write adaptive narrative or dialogue, or create art for your game,\nplease do so! I ask that you merely cite that you have done so. Do not pass off such work as your own;\nyou will miss out on the credit I will give you for having utilized modern tools for modern solutions.\nCopyright and IP\nProfessor's Copyright:\nThis course may contain copyright protected materials such as audio or video clips, images, text\nmaterials, etc. These items are being used with regard to the Fair Use doctrine in order to enhance the",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_grading_policy_4",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 5) | learning environment. Please do not copy, duplicate, download or distribute these items. The use of\nthese materials is strictly reserved for this online classroom environment and your use only. All copyright\nmaterials are credited to the copyright holder, either me, Dr. Mell, or the other relevant holder.\nStudents' Copyright:\nYour games that you create are your own copyright. You should consult with a legal expert to fully explain\nwhat this means, but generally, it means you can use your games in portfolios and other items, including\ncommercial use. If you use 3rd-party materials in your game (e.g., music or art), you are still subject to\nthose terms, and the terms of any game engine you may use. I reserve the right to use clips of your\ngames in future classes for educational and promotional purposes. I additionally reserve the right to make\navailable a copy of your game binary (executable) on my website for archival purposes and to\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 8/12",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_grading_policy_5",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 6) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\ndemonstrate the class. Source code, while you will be required to submit it, will not be made publicly\navailable. If you would prefer your final game to not be hosted publicly, or you'd instead like to provide a\nlive link to your own site (e.g., Itch.io), please contact me directly.\nIllness and Class\nCOVID/Illness Special Note from Dr. Mell\nCOVID-19 has changed the way public health is handled worldwide, indefinitely.\nUCF's official policy has been that you are expected to be up to date and boosted with COVID-19\nvaccine if you are able, and to otherwise follow CDC guidance.\nTo be considerate of the health and time of others, I do not offer regular in-person office hours. Largely,\nthis has not been a problem--I am normally available on Discord very readily with fast response times.\nHowever, if you believe you need an exception, please reach out to me and we can discuss.\nI am trying to make this class as interactive as possible while still respecting student's individual needs.\nThat is why I have chosen not require attendance beyond the major points of the class. I hope you\nchoose to safely engage as much as possible in spite of this, and I will work with you to find good\noptions with regard to your health and safety.\nIf you are ill, do not come to class. If you have a presentation, please notify me before class and we will\noffer alternatives as appropriate.\nRecording\nDr. Mell's summary: don't give away recordings without my permission\nStudents may, without prior notice, record video or audio of a class lecture for a class in which the\nstudent is enrolled for their own personal educational use. A class lecture is defined as a formal or",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_grading_policy_6",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 7) | methodical oral presentation as part of a university course intended to present information or teach\nstudents about a particular subject. Recording classroom activities other than class lectures, including\nbut not limited to lab sessions, student presentations (whether individually or part of a group), class\ndiscussion (except when incidental to and incorporated within a class lecture), clinical presentations such\nas patient history, academic exercises involving student participation, test or examination\nadministrations, field trips, and private conversations is prohibited. Recordings may not be used as a\nsubstitute for class participation and class attendance, and may not be published or shared without the\nwritten consent of the faculty member. Failure to adhere to these requirements may constitute a violation\nof the University’s Student Code of Conduct as described in the Golden Rule .\nThird-Party Tools\nUnity Game Engine Privacy Statement\nYou may install Unity, and have access to the pro version, by simply signing up on the Unity website with\nyour UCF.edu email address (you will receive a student version).\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 9/12",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_grading_policy_7",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 8) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nStudents have also used Unreal Engine and Godot Engine in the past, successfully. However, I don't\nofficially \"support\" them for this course.\nThird-Party Software and FERPA\nDuring this course you might have the opportunity to use public online services and/or software\napplications sometimes called third-party software such as a blog or wiki. While some of these could be\nrequired assignments, you need not make any personally identifying information on a public site. Do not\npost or provide any private information about yourself or your classmates. Where appropriate you may\nuse a pseudonym or nickname. Some written assignments posted publicly may require personal\nreflection/comments, but the assignments will not require you to disclose any personally identity-\nsensitive information. If you have any concerns about this, please contact your instructor.\nDisability Access & Accommodations\nThe University of Central Florida is committed to providing equal access to all students with disabilities\n(ADHD, learning disabilities, Autism, chronic medical conditions, physical disabilities, etc.). To receive\nconsideration for reasonable disability-related course accommodations, disabled students must contact\nStudent Accessibility Services (SAS) and complete the steps required for SAS to review accommodation\nrequests. More information can be found on the UCF Student Accessibility Services website under the\nStart Here tab or by contacting SAS directly (Ferrell Commons 185; sas@ucf.edu; Phone - 407-823-\n2371).\nApproved accommodations are shared with course instructors via the SAS Course Accessibility Letter.\nImplementing certain accommodations may require discussion and specific considerations of the course",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_grading_policy_8",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 9) | design, course learning objectives, and the individual academic and course challenges experienced by\nthe student. While students with disabilities or chronic health needs are also encouraged to discuss any\ncourse concerns with professors in addition to contacting SAS, professors are not required to facilitate\ndisability-related adjustments to the course unless the professor has received a Course Accessibility\nLetter from SAS that outlines approved accommodations.\nNotice\nNote: Everything below this point is UCF policy, and was not specified by the instructor. Please refer to\nmy specific academic integrity notes above, which override some of the boilerplate.",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_academic_integrity_0",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 1) | Students should familiarize themselves with UCF’s Code of Conduct at Student Conduct and Integrity\nOffice. According to Section 1, “Academic Misconduct,” students are prohibited from engaging in:\na. Academic misconduct is defined as any submitted work or behavior that obstructs the instructor of\nrecord's ability to accurately assess the student's understanding or completion of the course\nmaterials or degree requirements (e.g., assignment, quiz, and/or exam). Examples of academic\nmisconduct include but are not limited to: plagiarism, unauthorized assistance to complete an\nacademic exercise; unauthorized communication with others during an examination, course\nassignment, or project; falsifying or misrepresenting academic work; providing misleading\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 10/12",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_academic_integrity_1",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 2) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\ninformation to create a personal advantage to complete course/degree requirements; or multiple\nsubmission(s) of academic work without permission of the instructor of record.\nb. Any student who knowingly helps another violate academic behavior standards is also in violation of\nthe standards.\nc. Commercial Use of Academic Material. Selling of course material to another person and/or\nuploading course material to a third-party vendor without authorization or without the express written\npermission of the University and the instructor of record. Course materials include but are not limited\nto class notes, the instructor of record's slide deck, tests, quizzes, labs, instruction sheets,\nhomework, study guides, and handouts.\nd. Soliciting assistance with academic coursework and/or degree requirements. The solicitation of\nassistance with an assignment, lab, quiz, test, paper, etc., without authorization of the instructor of\nrecord or designee is prohibited. This includes but is not limited to asking for answers to a quiz,\ntrading answers, or offering to pay another to complete an assignment. It is considered Academic\nMisconduct to solicit assistance with academic coursework and/or degree requirements, even if the\nsolicitation did not yield actual assistance (for example, if there was no response to the solicitation).\nResponses to Academic Dishonesty, Plagiarism, or Cheating\nStudents should also familiarize themselves with the procedures for academic misconduct in UCF’s\nstudent handbook, The Golden Rule. UCF faculty members have a responsibility for students’ education\nand the value of a UCF degree, and so seek to prevent unethical behavior and respond to academic",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_academic_integrity_2",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 3) | misconduct when necessary. Penalties for violating rules, policies, and instructions within this course can\nrange from a zero on the exercise to an “F” letter grade in the course. In addition, an Academic\nMisconduct report could be filed with the Office of Student Conduct and Academic Integrity, which could\nlead to disciplinary warning, disciplinary probation, or deferred suspension or separation from the\nUniversity through suspension, dismissal, or expulsion with the addition of a “Z” designation on one’s\ntranscript.\nBeing found in violation of academic conduct standards could result in a student having to disclose such\nbehavior on a graduate school application, being removed from a leadership position within a student\norganization, the recipient of scholarships, participation in University activities such as study abroad,\ninternships, etc.\nTitle IX\nTitle IX prohibits sex discrimination, including sexual misconduct, sexual violence, sexual harassment,\nand retaliation. If you or someone you know has been harassed or assaulted, you can find resources\navailable to support the victim, including confidential resources and information concerning reporting\noptions at Let's Be Clear and UCF Cares.\nFor more information on access and community engagement, Title IX, accessibility, or UCF's complaint\nprocesses contact:\nTitle IX – ONAC – Office of Nondiscrimination & Accommodations Compliance &\naskanadvocate@ucf.edu\nDisability Accommodation – Student Accessibility Services – Student Accessibility Services &\nsas@ucf.edu\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 11/12",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_academic_integrity_3",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 4) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nAccess and Community Engagement (including the Ginsberg Center for Inclusion and Community\nEngagement, Military and Veteran Student Success, and HSI Initiatives)\nUCF Compliance and Ethics Office – Compliance, Ethics, and Risk Office &\ncomplianceandethics@ucf.edu\nThe Ombuds Office is a safe place to discuss concerns.\nReporting an Incident or Issue\nIf you believe you have experienced discrimination by any faculty or staff member, contact the Office of\nNondiscrimination & Accommodations Compliance via the ONAC website or at 407-823-1336. You can also choose\nto report using the UCF Integrity Line either anonymously or as yourself at 1-855-877-6049 or by using the online\nform. UCF cares about you and takes every report seriously. For more information see the Reporting an Incident or\nIssue Webpage.\nDeployed Active-Duty Military Students\nStudents who are deployed active duty military and/or National Guard personnel and require\naccommodation should contact their instructors as soon as possible after the semester begins and/or\nafter they receive notification of deployment to make related arrangements.\nCampus Safety\nAt UCF Public Safety and Police, safety is the top priority. Emergencies on campus are rare, but if one\nshould arise, it's important to be familiar with some basic safety and security concepts.\nIn an emergency, always dial 911.\nEvery UCF classroom has an Emergency Procedure Guide posted on a wall near the door, which\nwill show you how to respond to a variety of situations. This guide can also be found online here.\nIn the event of an active threat, remember AVOID, DENY, DEFEND. Choose the best course of\naction and act immediately. Watch the video here to learn more.",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4053_academic_integrity_4",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 5) | AVOID. Pay attention to your surroundings and have an exit plan. Get as much distance and\nas many barriers between you and the threat as quickly as possible.\nDENY. When avoiding is difficult or impossible, deny the threat access to you and your space.\nLockdown by creating barriers, turning the lights off and remaining quiet and out of sight.\nMake sure your cell phone is silenced, but do not turn it off.\nDEFEND. When you are unable to put distance between yourself and the threat, be prepared\nto protect yourself. Commit to your actions, be aggressive and do not fight fairly. Do whatever\nit takes to survive.\nFor emergencies on campus, UCF will utilize the UCF Alert system. All UCF students, faculty and\nstaff are automatically enrolled to receive these email and text alerts, however, it's a good idea to\nfrequently ensure your contact information is up to date.\nFinancial Aid Accountability\nAll instructors/faculty are required to document students’ academic activity at the beginning of each\ncourse. In order to document that you began this course, please complete this activity by the end of the\nfirst week of classes or as soon as possible after adding the course. Failure to do so may result in a delay\nin the disbursement of your financial aid.\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 12/12",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+    }
+  }
+]

@@ -20,6 +20,8 @@ from ingestion.reddit.download_reddit import main as download_reddit_main
 from ingestion.reddit.ingest_reddit import main as ingest_reddit_main
 from ingestion.rmp.download_rmp_professors import main as download_rmp_main
 from ingestion.rmp.ingest_rmp import main as ingest_rmp_main
+from ingestion.syllabus.parse_pdf import main as parse_pdf_main
+from ingestion.syllabus.ingest_syllabus import main as ingest_syllabus_main
 from ingestion.validate_chunks import validate_chunks
 
 def run_step(step_name, func, *args, **kwargs):
@@ -43,16 +45,23 @@ def main():
     # 2. Download RateMyProfessor Raw Data
     run_step("Download RateMyProfessor Raw Data", download_rmp_main)
     
-    # 3. Process/Chunk Reddit Data
+    # 3. Extract Syllabus PDF Text
+    run_step("Extract Syllabus PDF Text", parse_pdf_main)
+    
+    # 4. Process/Chunk Reddit Data
     run_step("Process/Chunk Reddit Data", ingest_reddit_main)
     
-    # 4. Process/Chunk RateMyProfessor Data
+    # 5. Process/Chunk RateMyProfessor Data
     run_step("Process/Chunk RateMyProfessor Data", ingest_rmp_main)
     
-    # 5. Validate Chunks
+    # 6. Process/Chunk Syllabus Data
+    run_step("Process/Chunk Syllabus Data", ingest_syllabus_main)
+    
+    # 7. Validate Chunks
     documents_dir = os.path.join(project_root, "documents")
     reddit_chunks_path = os.path.join(documents_dir, "chunks", "reddit_chunks.json")
     rmp_chunks_path = os.path.join(documents_dir, "chunks", "rmp_chunks.json")
+    syllabus_chunks_path = os.path.join(documents_dir, "chunks", "syllabus_chunks.json")
     
     logging.info("==================================================")
     logging.info("Starting step: Validate Chunks")
@@ -60,14 +69,16 @@ def main():
     
     reddit_ok = validate_chunks(reddit_chunks_path)
     rmp_ok = validate_chunks(rmp_chunks_path)
+    syllabus_ok = validate_chunks(syllabus_chunks_path)
     
-    if reddit_ok and rmp_ok:
+    if reddit_ok and rmp_ok and syllabus_ok:
         logging.info("Validation PASSED successfully for all chunks.")
     else:
         logging.error("Validation FAILED! Please check the parser outputs.")
         sys.exit(1)
         
     logging.info("Pipeline Execution Complete!")
+
 
 if __name__ == "__main__":
     main()

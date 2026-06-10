@@ -48,8 +48,8 @@ def validate_chunks(filepath: str) -> bool:
         # 3. Check metadata keys
         metadata = chunk["metadata"]
         review_type = metadata.get("review_type")
-        if review_type not in ("school", "professor", "reddit_thread"):
-            print(f"ERROR [Chunk {chunk_id}]: 'review_type' must be 'school', 'professor' or 'reddit_thread', got {review_type}")
+        if review_type not in ("school", "professor", "reddit_thread", "syllabus"):
+            print(f"ERROR [Chunk {chunk_id}]: 'review_type' must be 'school', 'professor', 'reddit_thread' or 'syllabus', got {review_type}")
             errors += 1
             
         if "source_file" not in metadata:
@@ -78,6 +78,13 @@ def validate_chunks(filepath: str) -> bool:
                 print(f"ERROR [Chunk {chunk_id}]: Reddit metadata missing keys: {missing_reddit_keys}")
                 errors += 1
                 
+        elif review_type == "syllabus":
+            syllabus_req_keys = {"course_code", "original_course_code", "instructor", "term", "section_name"}
+            missing_syllabus_keys = syllabus_req_keys - set(metadata.keys())
+            if missing_syllabus_keys:
+                print(f"ERROR [Chunk {chunk_id}]: Syllabus metadata missing keys: {missing_syllabus_keys}")
+                errors += 1
+                
         # 4. Check text length and quality
         text = chunk["text"]
         char_count = len(text)
@@ -99,6 +106,10 @@ def validate_chunks(filepath: str) -> bool:
         elif review_type == "reddit_thread" and not text.startswith("Subreddit: "):
             print(f"WARNING [Chunk {chunk_id}]: Reddit chunk text should start with 'Subreddit: ' prefix")
             warnings += 1
+        elif review_type == "syllabus" and not text.startswith("Course: "):
+            print(f"WARNING [Chunk {chunk_id}]: Syllabus chunk text should start with 'Course: ' prefix")
+            warnings += 1
+
             
     # Write debug file containing a summary of parsed chunks
     debug_filepath = os.path.join(os.path.dirname(filepath), "debug_chunks.json")

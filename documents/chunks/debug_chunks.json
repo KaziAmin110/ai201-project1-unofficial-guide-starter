@@ -1,77 +1,77 @@
 [
   {
-    "id": "rmp_school_000",
-    "text": "University: University of Central Florida | Overall Rating: 4.1 | Ratings: Reputation: 4, Location: 4, Opportunities: 4, Facilities: 4, Internet: 3, Food: 3, Clubs: 4, Social: 4, Happiness: 4, Safety: 4 | Review: UCF has a great infrastructure!",
-    "source": "Rate My Professor - UCF Overall",
-    "source_type": "rmp",
+    "id": "syllabus_cap4053_course_overview_0",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Overview | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nCAP 4053 - AI FOR GAME PROGRAMMING\nSection: B001\nCollege of Engineering and Computer Science\nDepartment of Computer Science\nCourse Information\nTerm: Summer 2026\nClass Meeting Days: TR\nClass Meeting Time: 03:00PM - 06:50PM\nClass Meeting Location: TCH 0103\nModality: P\nCredit Hours: 3.00",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
     "metadata": {
-      "review_type": "school",
-      "source_file": "rmp_school.json",
-      "overall_rating": 4.1,
-      "date": "May 24th, 2026"
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Course Overview",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
     }
   },
   {
-    "id": "rmp_school_001",
-    "text": "University: University of Central Florida | Overall Rating: 4.0 | Ratings: Reputation: 4, Location: 4, Opportunities: 4, Facilities: 4, Internet: 1, Food: 1, Clubs: 4, Social: 4, Happiness: 4, Safety: 4 | Review: Loved my time at UCF. 63 south is bad and the internet can be quite poor basically anywhere on campus though.",
-    "source": "Rate My Professor - UCF Overall",
-    "source_type": "rmp",
+    "id": "syllabus_cap4053_contact_information_0",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Contact Information | Johnathan Mell\nOffice Location: Discord",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
     "metadata": {
-      "review_type": "school",
-      "source_file": "rmp_school.json",
-      "overall_rating": 4.0,
-      "date": "May 11th, 2026"
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
     }
   },
   {
-    "id": "rmp_prof_travis_meade_000",
-    "text": "Professor: Travis Meade | Course: COP3502C | Quality: 1 | Difficulty: 5 | Review: A name that will always be remembered in the UCF comp sci department, and not in a good way. His office smelled so bad and he was really weird towards his female TA. I can confirm that the rumors were true and that we were all uncomfortable. Meade marked a stain on UCF's name and I hope it doesn't happen again.",
-    "source": "Rate My Professor - Travis Meade",
-    "source_type": "rmp",
+    "id": "syllabus_cap4053_contact_information_1",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Contact Information | After class or by appointment\nEmail: Johnathan.Mell@ucf.edu\nStudent Learning Outcomes\nAll outcomes apply to 5937 (graduate) students. Outcomes marked with a (G) only apply to\ngraduate students, and the remainder make up the 4053 (undergraduate) list.\nLearn how to make video games\n(G) Learn how to lead a video game design team\nIdentify and explain some areas of game programming that AI programmers handle that are not\ntraditionally defined by academia as AI\nExplain what makes some Game AI “good” and other Game AI “bad”\nUse the Unity game engine and tutorials to create a simple game with AI, input and other interactive\nfeatures\nEngage with your peers on Discord and communicate professionally about games\nUse basic vector operations to solve basic AI problems such as visibility cone computations\nDemonstrate understanding of the basic process of programming and how time and movement work\nin real-time systems\n(G) Deploy multiple AI systems that serve different functions within your game\nIdentify and explain methods by which modern games implement decision making\nDemonstrate understanding of various pathfinding algorithms used in modern games\nExplain basic steering of entities, and how they achieve their desired effects\nExplain how game developers use focus testing to improve their AI (G) and provide detailed analysis\nof that testing\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 1/12\n\n6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
     "metadata": {
-      "review_type": "professor",
-      "source_file": "rmp_professors.json",
-      "professor_name": "Travis Meade",
-      "department": "Computer Science",
-      "course_code": "COP3502C",
-      "original_course_code": "CS1",
-      "quality_rating": 1,
-      "difficulty_rating": 5,
-      "date": "Jun 09, 2026"
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
     }
   },
   {
-    "id": "rmp_prof_travis_meade_001",
-    "text": "Professor: Travis Meade | Course: COP3502C | Quality: 1 | Difficulty: 5 | Grade Received: Audit/No Grade | Review: Yo! Is That The Hello Kitty Man?",
-    "source": "Rate My Professor - Travis Meade",
-    "source_type": "rmp",
+    "id": "syllabus_cap4053_course_description_0",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 1) | CAP 4053 ENGR-COMP SCI 3(3,0)AI for Game Programming: PR: Complete all of the followingEarn a\nminimum grade of C in each of the following: COP3502C - Computer Science I (3)or C.I. Surveys cutting-\nedge AI techniques for video games and board games and contrasts them with more traditional\napproaches. Spr\nThis is a High-Impact Course and will be noted as such on your transcript (undergrad only)!\nClassroom: <TBD>\nCourse Modality: In-person*\nWe will use Discord extensively\nWe will use Zoom occasionally. See homepage for individual section links.\n*see below regarding illness and recorded lectures\nPast game streams are available on YouTube\nThis a project-based course in which small groups will build a game, learning a great deal about how to\ndo so in the process. This includes:\nlearning quite a bit about programming in the practical sense\nlearning both AI and “traditional” techniques for creating video games\nlearning about what games ARE, and how to formally talk about them\nlearning how to make games fun\nlearning a small amount about the business and economics of game-making\nSome groups will include a graduate student \"team lead\". This team lead will be responsible for project\nmanaging the course, working with the other team members to deploy a more complex and ambitious\nproject. This means as a graduate student, you will have additional responsibilities to manage your team,\nand the overall project will benefit from your involvement (although the expectations for the whole team\nwill be commensurately higher).\nThe vast majority of your grade in this course is made up of several checkpoints in making a game. Doing\na good job with making your game will mean you are almost certain to pass the course. Hopefully, you\nwill also find the experience enjoyable!",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
     "metadata": {
-      "review_type": "professor",
-      "source_file": "rmp_professors.json",
-      "professor_name": "Travis Meade",
-      "department": "Computer Science",
-      "course_code": "COP3502C",
-      "original_course_code": "COP3502C",
-      "quality_rating": 1,
-      "difficulty_rating": 5,
-      "date": "Apr 25, 2026"
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
     }
   },
   {
-    "id": "rmp_prof_travis_meade_002",
-    "text": "Professor: Travis Meade | Course: COP3502C | Quality: 1 | Difficulty: 5 | Grade Received: Drop/Withdrawal | Review: Took this class during undergrad for CS1. He often started lectures 15 minutes early. During a semester when a hurricane devastated the area and some students had flooded apartments or totaled cars, getting extensions or makeups felt very difficult. His interactions with one of the TAs also made many students uncomfortable.",
-    "source": "Rate My Professor - Travis Meade",
-    "source_type": "rmp",
+    "id": "syllabus_cap4053_course_description_1",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 2) | Note: this class is exam-lite, but requires a substantial amount of time outside class. Especially if you\nare simultaneously enrolled in Senior Design, this can be daunting! Start early, and have regular meetings,\nwith at least some in-person.\nRequired Course Materials and Resources\nGameAI Pro\nNotes: Optional resource! GameAI Pro is a reference guide, and generally I will not assign readings from\nit. It should be used to help guide your development, and reading it is recommended to help elaborate on\nlecture content.\nOnline Access: https://www.gameaipro.com/\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 2/12",
+    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "source_type": "syllabus",
     "metadata": {
-      "review_type": "professor",
-      "source_file": "rmp_professors.json",
-      "professor_name": "Travis Meade",
-      "department": "Computer Science",
-      "course_code": "COP3502C",
-      "original_course_code": "3502C",
-      "quality_rating": 1,
-      "difficulty_rating": 5,
-      "date": "Mar 14, 2026"
+      "review_type": "syllabus",
+      "course_code": "CAP4053",
+      "original_course_code": "CAP4053",
+      "instructor": "Johnathan Mell",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
     }
   }
 ]
