@@ -20,7 +20,7 @@
 
 | #   | Source                          | Description                                                                                                         | URL or location                                                                  |
 | --- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 1   | RMF                             | Used to gather overall ratings / reviews on university overall                                                      | https://www.ratemyprofessors.com/school/1082                                     |
+| 1   | RMF                             | Used to gather overall ratings / reviews on university overall (University of Central Florida)                                                  | https://www.ratemyprofessors.com/school/1082                                     |
 | 2   | RMF                             | Used to gather overall ratings / reviews on specific professors at UCF                                              | https://www.ratemyprofessors.com/search/professors/1082?q=*                      |
 | 3   | UCF Subreddit (Academic Filter) | Used to gather overall ratings / reviews on specific courses / thoughts on courses at UCF                           | https://www.reddit.com/r/ucf/?f=flair_name%3A%22Academic%20%E2%9C%8F%EF%B8%8F%22 |
 | 4   | UCF Simple Syllabus Repository  | Used to gain information regarding specific information about various courses at UCF offered by specific professors | https://ucf.simplesyllabus.com/en-US/syllabus-library                            |

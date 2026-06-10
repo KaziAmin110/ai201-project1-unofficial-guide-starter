@@ -1,0 +1,77 @@
+[
+  {
+    "id": "rmp_school_000",
+    "text": "University: University of Central Florida | Overall Rating: 4.1 | Ratings: Reputation: 4, Location: 4, Opportunities: 4, Facilities: 4, Internet: 3, Food: 3, Clubs: 4, Social: 4, Happiness: 4, Safety: 4 | Review: UCF has a great infrastructure!",
+    "source": "Rate My Professor - UCF Overall",
+    "source_type": "rmp",
+    "metadata": {
+      "review_type": "school",
+      "source_file": "rmp_school.json",
+      "overall_rating": 4.1,
+      "date": "May 24th, 2026"
+    }
+  },
+  {
+    "id": "rmp_school_001",
+    "text": "University: University of Central Florida | Overall Rating: 4.0 | Ratings: Reputation: 4, Location: 4, Opportunities: 4, Facilities: 4, Internet: 1, Food: 1, Clubs: 4, Social: 4, Happiness: 4, Safety: 4 | Review: Loved my time at UCF. 63 south is bad and the internet can be quite poor basically anywhere on campus though.",
+    "source": "Rate My Professor - UCF Overall",
+    "source_type": "rmp",
+    "metadata": {
+      "review_type": "school",
+      "source_file": "rmp_school.json",
+      "overall_rating": 4.0,
+      "date": "May 11th, 2026"
+    }
+  },
+  {
+    "id": "rmp_prof_travis_meade_000",
+    "text": "Professor: Travis Meade | Course: COP3502C | Quality: 1.0 | Difficulty: 5.0 | Review: A name that will always be remembered in the UCF comp sci department, and not in a good way. His office smelled so bad and he was really weird towards his female TA. I can confirm that the rumors were true and that we were all uncomfortable. Meade marked a stain on UCF's name and I hope it doesn't happen again.",
+    "source": "Rate My Professor - Travis Meade",
+    "source_type": "rmp",
+    "metadata": {
+      "review_type": "professor",
+      "source_file": "rmp_professors.json",
+      "professor_name": "Travis Meade",
+      "department": "Computer Science",
+      "course_code": "COP3502C",
+      "original_course_code": "CS1",
+      "quality_rating": 1.0,
+      "difficulty_rating": 5.0,
+      "date": "Jun 9th, 2026"
+    }
+  },
+  {
+    "id": "rmp_prof_travis_meade_001",
+    "text": "Professor: Travis Meade | Course: COP3502C | Quality: 1.0 | Difficulty: 5.0 | Attendance: Not Mandatory | Grade Received: Audit/No Grade | Review: Is That The Hello Kitty Man?",
+    "source": "Rate My Professor - Travis Meade",
+    "source_type": "rmp",
+    "metadata": {
+      "review_type": "professor",
+      "source_file": "rmp_professors.json",
+      "professor_name": "Travis Meade",
+      "department": "Computer Science",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "quality_rating": 1.0,
+      "difficulty_rating": 5.0,
+      "date": "Apr 24th, 2026"
+    }
+  },
+  {
+    "id": "rmp_prof_travis_meade_002",
+    "text": "Professor: Travis Meade | Course: COP3502C | Quality: 1.0 | Difficulty: 5.0 | For Credit: Yes | Attendance: Not Mandatory | Grade Received: Drop/Withdrawal | Review: Took this class during undergrad for CS1. He often started lectures 15 minutes early. During a semester when a hurricane devastated the area and some students had flooded apartments or no power, he refused to extend homework deadlines and told us to figure it out ourselves.",
+    "source": "Rate My Professor - Travis Meade",
+    "source_type": "rmp",
+    "metadata": {
+      "review_type": "professor",
+      "source_file": "rmp_professors.json",
+      "professor_name": "Travis Meade",
+      "department": "Computer Science",
+      "course_code": "COP3502C",
+      "original_course_code": "3502C",
+      "quality_rating": 1.0,
+      "difficulty_rating": 5.0,
+      "date": "Mar 14th, 2026"
+    }
+  }
+]

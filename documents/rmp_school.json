@@ -1,0 +1,36 @@
+[
+  {
+    "overall_rating": 4.1,
+    "date": "May 24th, 2026",
+    "comment": "UCF has a great infrastructure!",
+    "sub_ratings": {
+      "reputation": 4,
+      "location": 4,
+      "opportunities": 4,
+      "facilities": 4,
+      "internet": 3,
+      "food": 3,
+      "clubs": 4,
+      "social": 4,
+      "happiness": 4,
+      "safety": 4
+    }
+  },
+  {
+    "overall_rating": 4.0,
+    "date": "May 11th, 2026",
+    "comment": "Loved my time at UCF. 63 south is bad and the internet can be quite poor basically anywhere on campus though.",
+    "sub_ratings": {
+      "reputation": 4,
+      "location": 4,
+      "opportunities": 4,
+      "facilities": 4,
+      "internet": 1,
+      "food": 1,
+      "clubs": 4,
+      "social": 4,
+      "happiness": 4,
+      "safety": 4
+    }
+  }
+]

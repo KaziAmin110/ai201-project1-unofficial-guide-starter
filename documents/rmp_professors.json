@@ -1,0 +1,44 @@
+[
+  {
+    "professor_name": "Travis Meade",
+    "department": "Computer Science",
+    "school_name": "University of Central Florida",
+    "course_code": "CS1",
+    "quality_rating": 1.0,
+    "difficulty_rating": 5.0,
+    "date": "Jun 9th, 2026",
+    "comment": "A name that will always be remembered in the UCF comp sci department, and not in a good way. His office smelled so bad and he was really weird towards his female TA. I can confirm that the rumors were true and that we were all uncomfortable. Meade marked a stain on UCF's name and I hope it doesn't happen again.",
+    "details": {}
+  },
+  {
+    "professor_name": "Travis Meade",
+    "department": "Computer Science",
+    "school_name": "University of Central Florida",
+    "course_code": "COP3502C",
+    "quality_rating": 1.0,
+    "difficulty_rating": 5.0,
+    "date": "Apr 24th, 2026",
+    "comment": "Is That The Hello Kitty Man?",
+    "details": {
+      "attendance_mandatory": false,
+      "grade_received": "Audit/No Grade",
+      "textbook_used": "N/A"
+    }
+  },
+  {
+    "professor_name": "Travis Meade",
+    "department": "Computer Science",
+    "school_name": "University of Central Florida",
+    "course_code": "3502C",
+    "quality_rating": 1.0,
+    "difficulty_rating": 5.0,
+    "date": "Mar 14th, 2026",
+    "comment": "Took this class during undergrad for CS1. He often started lectures 15 minutes early. During a semester when a hurricane devastated the area and some students had flooded apartments or no power, he refused to extend homework deadlines and told us to figure it out ourselves.",
+    "details": {
+      "for_credit": true,
+      "attendance_mandatory": false,
+      "grade_received": "Drop/Withdrawal",
+      "textbook_used": "N/A"
+    }
+  }
+]
