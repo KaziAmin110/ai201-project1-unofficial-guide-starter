@@ -28,7 +28,9 @@ def main():
         "Andrew Steinberg",
         "Arup Guha",
         "Mark Llewellyn",
-        "Karin Whiting"
+        "Mark Heinrich",
+        "Euripides Montagne",
+        "Sarah Angell"
     ]
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -59,11 +61,19 @@ def main():
     all_professor_reviews = []
     
     for prof_name in target_professors:
+        if not prof_name.strip():
+            continue
         print(f"\nSearching for '{prof_name}'...")
         try:
-            professor = ratemyprofessor.get_professor_by_school_and_name(school, prof_name)
+            professors = ratemyprofessor.get_professors_by_school_and_name(school, prof_name)
+            professor = None
+            for p in professors:
+                if p.name.strip().lower() == prof_name.strip().lower():
+                    professor = p
+                    break
+                    
             if professor is None:
-                print(f"WARNING: Could not find professor '{prof_name}' at UCF. Skipping.")
+                print(f"WARNING: Could not find exact match for professor '{prof_name}' at UCF. Skipping.")
                 continue
                 
             print(f"Found: {professor.name} | Department: {professor.department} | Total Ratings: {professor.num_ratings}")
