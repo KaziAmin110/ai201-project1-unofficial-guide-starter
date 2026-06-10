@@ -53,9 +53,12 @@ def process_school_reviews(filepath: str) -> list:
         data = json.load(f)
         
     for idx, review in enumerate(data):
+        comment = review.get("comment", "").strip()
+        if not comment:
+            continue
+            
         overall = review.get("overall_rating")
         date = review.get("date", "Unknown Date")
-        comment = review.get("comment", "").strip()
         sub_ratings = review.get("sub_ratings", {})
         
         # Build sub-ratings key-value string
@@ -109,6 +112,9 @@ def process_professor_reviews(filepath: str) -> list:
         difficulty = review.get("difficulty_rating")
         date = review.get("date", "Unknown Date")
         comment = review.get("comment", "").strip()
+        if not comment:
+            continue
+            
         details = review.get("details", {})
         
         # Format chunk text

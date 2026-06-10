@@ -42,7 +42,7 @@
 
 Because the sources consists of four distinct types of documents (short reviews, conversational threads, structured syllabi, and dense official catalog policies), a single generic chunking strategy would hurt RAG accuracy. Instead, a multi-faceted chunking strategy is utilized:
 
-1. **Rate My Professors (RMP) Reviews (Short/Metadata-Driven):**
+1. **Rate My Professors (RMP) Reviews (Short/Metadata-Driven) [Completed]:** 
    - **Chunk size:** Single review per chunk (~100–300 tokens / 400–1200 characters).
    - **Overlap:** 0 (independent reviews).
    - **Strategy:** _Metadata-rich Item-level Chunking_. Each review is treated as a self-contained unit. The chunk text is prefixed with structured metadata (e.g., `Professor: [Name] | Course: [Code] | Rating: [Score] | Difficulty: [Score] | Review: [Content]`) to prevent reviews from mixing or breaking.

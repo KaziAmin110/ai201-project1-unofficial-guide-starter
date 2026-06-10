@@ -7674,23 +7674,6 @@
     }
   },
   {
-    "id": "rmp_prof_arup_guha_450",
-    "text": "Professor: Arup Guha | Course: COP3502H | Quality: 1 | Difficulty: 3 | Review: ",
-    "source": "Rate My Professor - Arup Guha",
-    "source_type": "rmp",
-    "metadata": {
-      "review_type": "professor",
-      "source_file": "rmp_professors.json",
-      "professor_name": "Arup Guha",
-      "department": "Computer Science",
-      "course_code": "COP3502H",
-      "original_course_code": "COP3502H",
-      "quality_rating": 1,
-      "difficulty_rating": 3,
-      "date": "Jul 25, 2024"
-    }
-  },
-  {
     "id": "rmp_prof_arup_guha_451",
     "text": "Professor: Arup Guha | Course: COP3502H | Quality: 1 | Difficulty: 1 | Grade Received: B | Review: This man has a MASSIVE ego and this was seen in his office hours. This class made me question if I chose the right major (computer engineering) and I do not recommend this guy to anyone. If you want to learn the same material in a more fair environment, take someone else. Enough said.",
     "source": "Rate My Professor - Arup Guha",
