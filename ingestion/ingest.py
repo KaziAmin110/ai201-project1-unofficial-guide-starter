@@ -24,6 +24,7 @@ from ingestion.syllabus.parse_pdf import main as parse_pdf_main
 from ingestion.syllabus.ingest_syllabus import main as ingest_syllabus_main
 from ingestion.catalog.ingest_catalog import main as ingest_catalog_main
 from ingestion.validate_chunks import validate_chunks
+from ingestion.build_vector_db import build_db as build_vector_db
 
 def run_step(step_name, func, *args, **kwargs):
     logging.info(f"==================================================")
@@ -83,6 +84,9 @@ def main():
         logging.error("Validation FAILED! Please check the parser outputs.")
         sys.exit(1)
         
+    # 9. Build Vector Database
+    run_step("Build Vector Database", build_vector_db)
+    
     logging.info("Pipeline Execution Complete!")
 
 

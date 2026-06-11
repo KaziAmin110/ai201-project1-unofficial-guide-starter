@@ -57,7 +57,7 @@ Because the sources consists of four distinct types of documents (short reviews,
    - **Overlap:** 0–50 characters (split strictly on headers).
    - **Strategy:** _Markdown Header/Section-Based Chunking_. Syllabi are parsed and split by logical markdown sections (e.g., `# Grading Policy`, `# Course Schedule`, `# Textbooks`). Chunks are prefixed with the syllabus course identifier (e.g., `Course: COP3502C | Professor: Szumlanski`).
 
-4. **Undergraduate Catalog (Dense Policy/Hierarchical):**
+4. **Undergraduate Catalog (Dense Policy/Hierarchical) [Completed]:**
    - **Chunk size:** Parent chunks: ~1500–2000 characters; Child chunks: ~300–500 characters.
    - **Overlap:** 50–100 characters for child chunks.
    - **Strategy:** _Hierarchical Chunking (Parent-Child)_. Large sections are split into small, high-precision child chunks for vector search indexing. However, when a child chunk matches the query, the retriever fetches and returns the larger parent policy block to the LLM. This prevents exceptions, footnotes, or preconditions from being cut off.
@@ -79,7 +79,7 @@ Different document formats require different segmentations to maintain high retr
 For the purposes of this project I will be using all-MiniLM-L6-v2 via sentence-transformers via Grok api
 
 **Top-k:**
-3 chunks.
+5 chunks.
 
 **Production tradeoff reflection:**
 
