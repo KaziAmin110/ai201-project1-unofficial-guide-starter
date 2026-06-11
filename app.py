@@ -3,7 +3,48 @@ import streamlit as st
 import logging
 from dotenv import load_dotenv
 from retriever import Retriever
+import re
 from generator import RAGGenerator
+
+def render_citations_with_tooltips(text: str, sources: list) -> str:
+    if not sources:
+        return text
+        
+    def replace_citation(match):
+        cit_num_str = match.group(1)
+        try:
+            cit_idx = int(cit_num_str) - 1
+            if 0 <= cit_idx < len(sources):
+                src = sources[cit_idx]
+                metadata = src.get("metadata", {})
+                source_name = metadata.get("source", metadata.get("source_file", "Unknown Source"))
+                snippet = src.get("text", "")
+                
+                # Truncate snippet if it is too long for a tooltip
+                if len(snippet) > 250:
+                    snippet_preview = snippet[:247] + "..."
+                else:
+                    snippet_preview = snippet
+                    
+                # Escape HTML special chars to prevent syntax issues
+                source_name_esc = source_name.replace('"', '&quot;').replace('<', '&lt;').replace('>', '&gt;')
+                snippet_preview_esc = snippet_preview.replace('"', '&quot;').replace('<', '&lt;').replace('>', '&gt;').replace('\n', '<br>')
+                
+                tooltip_html = f"""
+                <span class="citation-container">
+                    [{cit_num_str}]
+                    <span class="tooltip-text">
+                        <strong>{source_name_esc}</strong><br><br>
+                        {snippet_preview_esc}
+                    </span>
+                </span>
+                """
+                return tooltip_html.strip()
+        except ValueError:
+            pass
+        return match.group(0)
+        
+    return re.sub(r'\[(\d+)\]', replace_citation, text)
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
@@ -136,6 +177,60 @@ st.markdown("""
         font-style: italic;
         margin-bottom: 5px;
     }
+    
+    /* Interactive citation tooltips styling */
+    .citation-container {
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+        font-weight: bold;
+        color: #ffd700 !important;
+        background: rgba(255, 215, 0, 0.1);
+        padding: 0 4px;
+        border-radius: 4px;
+        margin: 0 2px;
+    }
+    
+    .citation-container .tooltip-text {
+        visibility: hidden;
+        width: 350px;
+        background-color: #161622 !important;
+        color: #e2e2e9 !important;
+        text-align: left;
+        border: 1px solid rgba(255, 215, 0, 0.3) !important;
+        border-radius: 8px;
+        padding: 12px;
+        position: absolute;
+        z-index: 1000;
+        bottom: 125%; /* Position the tooltip above the text */
+        left: 50%;
+        margin-left: -175px;
+        opacity: 0;
+        transition: opacity 0.3s;
+        font-size: 0.85rem !important;
+        font-weight: normal !important;
+        line-height: 1.4 !important;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6) !important;
+        white-space: normal;
+        pointer-events: none;
+    }
+    
+    /* Small bottom arrow for tooltip bubble */
+    .citation-container .tooltip-text::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: #161622 transparent transparent transparent;
+    }
+    
+    .citation-container:hover .tooltip-text {
+        visibility: visible;
+        opacity: 1;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -187,7 +282,11 @@ generator = get_generator()
 # Render existing conversation history
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
-        st.markdown(msg["content"])
+        if msg["role"] == "assistant":
+            processed_content = render_citations_with_tooltips(msg["content"], msg.get("sources", []))
+            st.markdown(processed_content, unsafe_allow_html=True)
+        else:
+            st.markdown(msg["content"])
         
         # If assistant response has sources, display them in an expander
         if msg["role"] == "assistant" and "sources" in msg and msg["sources"]:
@@ -276,3 +375,6 @@ if user_input:
             "role": "user",
             "content": user_input
         })
+        
+        # Force a rerun to immediately replace raw streamed text with styled HTML tooltips
+        st.rerun()

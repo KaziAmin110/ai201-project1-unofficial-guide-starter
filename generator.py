@@ -95,7 +95,7 @@ Your task is to answer the user's questions using ONLY the provided context bloc
 CONSTRAINTS:
 1. Use ONLY the information in the provided context blocks to answer the question. Do NOT use any pre-existing or outside knowledge.
 2. Every claim or fact you state MUST be followed by an inline citation referencing the source number, for example [1], [2], or [1][3] if multiple sources apply.
-3. If the retrieved context blocks do not contain the answer, or if they are empty, you MUST state exactly: "I'm sorry, but I cannot answer that question as the retrieved context does not contain the necessary information." Do not attempt to formulate an answer using general knowledge.
+3. If the retrieved context blocks do not contain the answer, or if they are empty, you MUST state exactly: "I'm sorry, but I don't have enough information to answer that question." Do not attempt to formulate an answer using general knowledge.
 4. Keep your answer professional, clear, and concise. Do not mention that you have context or are forced to use it; simply state the answers and cite the sources directly."""
 
         # Construct messages payload for Groq
