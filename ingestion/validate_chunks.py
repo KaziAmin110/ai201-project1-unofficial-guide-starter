@@ -1,6 +1,8 @@
 import os
 import json
 import sys
+import re
+import random
 
 def validate_chunks(filepath: str) -> bool:
     if not os.path.exists(filepath):
@@ -107,6 +109,35 @@ def validate_chunks(filepath: str) -> bool:
                 
         # 4. Check text length and quality
         text = chunk["text"]
+        
+        if not text.strip():
+            print(f"ERROR [Chunk {chunk_id}]: Chunk text is empty or only whitespace!")
+            errors += 1
+            continue
+            
+        # Check for HTML tag artifacts (e.g. <div, <p, </p>, <a, <span, etc.)
+        html_patterns = [r'<[a-zA-Z]+/?>', r'</[a-zA-Z]+>', r'<[a-zA-Z]+\s+[^>]*>']
+        has_html = False
+        for p in html_patterns:
+            if re.search(p, text):
+                has_html = True
+                break
+        if has_html:
+            print(f"ERROR [Chunk {chunk_id}]: Found potential HTML tag artifacts in text: '{text}'")
+            errors += 1
+            
+        # Check that the source file name matches the source field or metadata
+        source_file = metadata.get("source_file", "")
+        if source_file:
+            cleaned_filename = re.sub(r'[^a-zA-Z0-9]', ' ', os.path.splitext(source_file)[0]).lower()
+            source_lower = chunk["source"].lower()
+            filename_words = [w for w in cleaned_filename.split() if len(w) > 3]
+            generic_terms = {'school', 'professors', 'reddit', 'syllabus', 'catalog'}
+            filename_words = [w for w in filename_words if w not in generic_terms]
+            if filename_words and not any(w in source_lower for w in filename_words):
+                print(f"WARNING [Chunk {chunk_id}]: Metadata source_file '{source_file}' might not match source description '{chunk['source']}'")
+                warnings += 1
+
         char_count = len(text)
         
         if char_count < 40:
@@ -133,6 +164,24 @@ def validate_chunks(filepath: str) -> bool:
             print(f"WARNING [Chunk {chunk_id}]: Catalog chunk text should start with '[Undergraduate Catalog' prefix")
             warnings += 1
 
+            
+    # Check for mechanical splitting (all chunks having the exact same length)
+    if len(chunks) > 5:
+        lengths = [len(c["text"]) for c in chunks]
+        unique_lengths = set(lengths)
+        if len(unique_lengths) == 1:
+            print(f"WARNING: All chunks in {filepath} have the exact same length ({list(unique_lengths)[0]} chars). This might indicate mechanical splitting without respecting content boundaries.")
+            warnings += 1
+            
+    # Print 5 random chunks for manual readability and substance check
+    if chunks:
+        print("\n--- 5 Random Chunks for Manual Inspection ---")
+        sample_size = min(len(chunks), 5)
+        random_samples = random.sample(chunks, sample_size)
+        for i, sample in enumerate(random_samples):
+            print(f"\n[Sample Chunk {i+1}] ID: {sample.get('id')}")
+            print(f"Source: {sample.get('source')} | Type: {sample.get('source_type')}")
+            print(f"Text Preview:\n---\n{sample.get('text')}\n---")
             
     # Write debug file containing a summary of parsed chunks
     debug_filepath = os.path.join(os.path.dirname(filepath), "debug_chunks.json")

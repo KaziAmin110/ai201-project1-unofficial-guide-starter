@@ -1,92 +1,77 @@
 [
   {
-    "id": "catalog_academic_advising_responsibilities_0_0_child_0",
-    "text": "[Undergraduate Catalog > Academic Advising > Responsibilities] Academic Success Coaching is a process that supports students in clarifying life and academic goals, with coaches helping students as they explore educational opportunities and develop educational plans and objectives. The role of the Academic Success Coach (ASC) is to provide both specific academic advising and non-academic coaching to students. This combination of advising and coaching results in a relationship-driven, ongoing process whereby",
-    "source": "Undergraduate Catalog - Academic Advising",
-    "source_type": "catalog",
+    "id": "rmp_school_000",
+    "text": "University: University of Central Florida | Overall Rating: 4.1 | Ratings: Reputation: 4, Location: 4, Opportunities: 4, Facilities: 4, Internet: 3, Food: 3, Clubs: 4, Social: 4, Happiness: 4, Safety: 4 | Review: UCF has a great infrastructure!",
+    "source": "Rate My Professor - UCF Overall",
+    "source_type": "rmp",
     "metadata": {
-      "review_type": "catalog",
-      "url": "https://www.ucf.edu/catalog/undergraduate/#/content/66bcc88ff93938001c54838a",
-      "breadcrumbs": [
-        "Undergraduate Catalog",
-        "Academic Advising",
-        "Responsibilities"
-      ],
-      "parent_id": "parent_catalog_academic_advising_responsibilities_0_0",
-      "heading": "Responsibilities",
-      "source_file": "academic_advising.md"
+      "review_type": "school",
+      "source_file": "rmp_school.json",
+      "overall_rating": 4.1,
+      "date": "May 24th, 2026"
     }
   },
   {
-    "id": "catalog_academic_advising_responsibilities_0_0_child_1",
-    "text": "[Undergraduate Catalog > Academic Advising > Responsibilities] advising and coaching results in a relationship-driven, ongoing process whereby the Academic Success Coach and the undergraduate student work together to establish goals, co-design academic plans and strategies, and monitor success to graduation.\n\nAll undergraduate students at UCF have an assigned ASC who works with their assigned students from orientation to graduation. ASCs are the students’ first point of contact for issues related but not",
-    "source": "Undergraduate Catalog - Academic Advising",
-    "source_type": "catalog",
+    "id": "rmp_school_001",
+    "text": "University: University of Central Florida | Overall Rating: 4.0 | Ratings: Reputation: 4, Location: 4, Opportunities: 4, Facilities: 4, Internet: 1, Food: 1, Clubs: 4, Social: 4, Happiness: 4, Safety: 4 | Review: Loved my time at UCF. 63 south is bad and the internet can be quite poor basically anywhere on campus though.",
+    "source": "Rate My Professor - UCF Overall",
+    "source_type": "rmp",
     "metadata": {
-      "review_type": "catalog",
-      "url": "https://www.ucf.edu/catalog/undergraduate/#/content/66bcc88ff93938001c54838a",
-      "breadcrumbs": [
-        "Undergraduate Catalog",
-        "Academic Advising",
-        "Responsibilities"
-      ],
-      "parent_id": "parent_catalog_academic_advising_responsibilities_0_0",
-      "heading": "Responsibilities",
-      "source_file": "academic_advising.md"
+      "review_type": "school",
+      "source_file": "rmp_school.json",
+      "overall_rating": 4.0,
+      "date": "May 11th, 2026"
     }
   },
   {
-    "id": "catalog_academic_advising_responsibilities_0_0_child_2",
-    "text": "[Undergraduate Catalog > Academic Advising > Responsibilities] uation. ASCs are the students’ first point of contact for issues related but not limited to: academic planning and academic success; course registration and enrollment matters; major changes; finances; health and well-being; campus engagement; campus resource discovery and connections; and work-life balance.\n\nAcademic Success Coaches also connect students with the University by bringing meaning to its mission, its curriculum, and to the learning",
-    "source": "Undergraduate Catalog - Academic Advising",
-    "source_type": "catalog",
+    "id": "rmp_prof_travis_meade_000",
+    "text": "Professor: Travis Meade | Course: COP3502C | Quality: 1 | Difficulty: 5 | Review: A name that will always be remembered in the UCF comp sci department, and not in a good way. His office smelled so bad and he was really weird towards his female TA. I can confirm that the rumors were true and that we were all uncomfortable. Meade marked a stain on UCF's name and I hope it doesn't happen again.",
+    "source": "Rate My Professor - Travis Meade",
+    "source_type": "rmp",
     "metadata": {
-      "review_type": "catalog",
-      "url": "https://www.ucf.edu/catalog/undergraduate/#/content/66bcc88ff93938001c54838a",
-      "breadcrumbs": [
-        "Undergraduate Catalog",
-        "Academic Advising",
-        "Responsibilities"
-      ],
-      "parent_id": "parent_catalog_academic_advising_responsibilities_0_0",
-      "heading": "Responsibilities",
-      "source_file": "academic_advising.md"
+      "review_type": "professor",
+      "source_file": "rmp_professors.json",
+      "professor_name": "Travis Meade",
+      "department": "Computer Science",
+      "course_code": "COP3502C",
+      "original_course_code": "CS1",
+      "quality_rating": 1,
+      "difficulty_rating": 5,
+      "date": "Jun 09, 2026"
     }
   },
   {
-    "id": "catalog_academic_advising_responsibilities_0_0_child_3",
-    "text": "[Undergraduate Catalog > Academic Advising > Responsibilities] iversity by bringing meaning to its mission, its curriculum, and to the learning environment that is the University community. Through academic success coaching, coaches are committed to assisting and supporting students with developing their educational, career and life goals. Coaches provide access to campus resources and coordinate the integration of all aspects of student life into learning experiences. Coaching is an individualized avenue",
-    "source": "Undergraduate Catalog - Academic Advising",
-    "source_type": "catalog",
+    "id": "rmp_prof_travis_meade_001",
+    "text": "Professor: Travis Meade | Course: COP3502C | Quality: 1 | Difficulty: 5 | Grade Received: Audit/No Grade | Review: Yo! Is That The Hello Kitty Man?",
+    "source": "Rate My Professor - Travis Meade",
+    "source_type": "rmp",
     "metadata": {
-      "review_type": "catalog",
-      "url": "https://www.ucf.edu/catalog/undergraduate/#/content/66bcc88ff93938001c54838a",
-      "breadcrumbs": [
-        "Undergraduate Catalog",
-        "Academic Advising",
-        "Responsibilities"
-      ],
-      "parent_id": "parent_catalog_academic_advising_responsibilities_0_0",
-      "heading": "Responsibilities",
-      "source_file": "academic_advising.md"
+      "review_type": "professor",
+      "source_file": "rmp_professors.json",
+      "professor_name": "Travis Meade",
+      "department": "Computer Science",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "quality_rating": 1,
+      "difficulty_rating": 5,
+      "date": "Apr 25, 2026"
     }
   },
   {
-    "id": "catalog_academic_advising_responsibilities_0_0_child_4",
-    "text": "[Undergraduate Catalog > Academic Advising > Responsibilities] of student life into learning experiences. Coaching is an individualized avenue of communication that assists students in the planning and decision-making process.\n\nAlthough Academic Success Coaches provide holistic support throughout the student’s journey, it is the student's responsibility to know the university policies, procedures, requirements, and seek out assistance when needed.",
-    "source": "Undergraduate Catalog - Academic Advising",
-    "source_type": "catalog",
+    "id": "rmp_prof_travis_meade_002",
+    "text": "Professor: Travis Meade | Course: COP3502C | Quality: 1 | Difficulty: 5 | Grade Received: Drop/Withdrawal | Review: Took this class during undergrad for CS1. He often started lectures 15 minutes early. During a semester when a hurricane devastated the area and some students had flooded apartments or totaled cars, getting extensions or makeups felt very difficult. His interactions with one of the TAs also made many students uncomfortable.",
+    "source": "Rate My Professor - Travis Meade",
+    "source_type": "rmp",
     "metadata": {
-      "review_type": "catalog",
-      "url": "https://www.ucf.edu/catalog/undergraduate/#/content/66bcc88ff93938001c54838a",
-      "breadcrumbs": [
-        "Undergraduate Catalog",
-        "Academic Advising",
-        "Responsibilities"
-      ],
-      "parent_id": "parent_catalog_academic_advising_responsibilities_0_0",
-      "heading": "Responsibilities",
-      "source_file": "academic_advising.md"
+      "review_type": "professor",
+      "source_file": "rmp_professors.json",
+      "professor_name": "Travis Meade",
+      "department": "Computer Science",
+      "course_code": "COP3502C",
+      "original_course_code": "3502C",
+      "quality_rating": 1,
+      "difficulty_rating": 5,
+      "date": "Mar 14, 2026"
     }
   }
 ]
