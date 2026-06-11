@@ -47,10 +47,11 @@ class Retriever:
         Catalog chunks matching a parent_id are resolved to their full parent policies.
         Duplicate parent policies or identical chunks are de-duplicated to preserve context window.
         """
-        # Execute query against ChromaDB
+        # Query a larger candidate pool from ChromaDB to account for deduplication
+        query_n = max(top_k * 3, 15)
         results = self.collection.query(
             query_texts=[query],
-            n_results=top_k
+            n_results=query_n
         )
         
         # Extract components (safely checking if results are returned)
@@ -106,7 +107,7 @@ class Retriever:
                 "distance": distance
             })
             
-        return retrieved_items
+        return retrieved_items[:top_k]
 
 if __name__ == "__main__":
     # Setup simple logging for testing
