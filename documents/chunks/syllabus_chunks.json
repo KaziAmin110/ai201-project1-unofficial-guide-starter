@@ -1,7 +1,427 @@
 [
   {
+    "id": "syllabus_cop3502c_course_overview_0",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Course Overview | COP 3502C - COMPUTER\nSCIENCE I\nSection: C003\nCollege of Engineering and\nComputer Science\nDepartment of Computer\nScience\nCourse Information\nTerm: Summer 2026\nClass Meeting Days: MW\nClass Meeting Time: 10:00AM - 11:45AM\nClass Meeting Location:\nModality: VL\nCredit Hours: 3.00",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Course Overview",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_contact_information_0",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Contact Information | Tanvir Ahmed\nTitle: Associate Lectuerer\nOffice Location: HEC-219 or Virtual on Zoom\n(Check Schedule)",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_contact_information_1",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Contact Information (Part 1) | Monday 12:30 pm - 2:30 pm (Zoom)\nWed 12:30 pm - 2:30 pm (Zoom)\nPhone: 407-823-5043\nEmail: Tanvir.Ahmed@ucf.edu\nCommunication Expectations\nImportant Email and Communication Policy\nI have three large classes this semester, so please follow the\ncommunication and email policy below to help ensure effective\ncommunication. As noted below, if you do not receive a response from\nme by email, please visit me during office hours.\nImportant Email Policy (Please, do not send Webcourses\nmessages)\nPlease read and follow the communication guidelines below when contacting me\nor the TAs.\n1. Use your UCF email account for all communication.\nDo NOT send messages through Webcourses.\n2. If you are following up on a previous email, always use the same email\nthread.\n3. In the subject line of every email, include:\nthe course name,\nsection number, and\na brief description of the topic.\nSince I teach multiple courses and sections, this helps us respond\nmore efficiently.\n4. Emails should be reserved for administrative inquiries only and should\nremain brief, professional, and friendly.\n5. Questions about course content should be discussed during office hours,\nwhere we can have a more effective and interactive discussion. We may not\nhelp with debugging your code in email.\n6. My direct email address should only be used for matters that are:\nnot relevant to the TAs, or\nintended to remain private from the TAs.\nExamples include illness, family emergencies, SAS accommodations,\nor private discussions regarding course performance.\n7. I generally respond to emails within 48 hours(excluding weekends). If you do\nnot receive a response within that timeframe:\nreply to the same email thread as a follow-up, or\nVisit me during office hours or the Zoom office hour meeting.",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_contact_information_2",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Contact Information (Part 2) | 8. Due to the large volume of emails in this course, occasional missed emails\ncan happen. In urgent situations, please follow up using the same email\nthread.\nContacting the TAs\nIn general, do not request assignment-related help through email. We offer many\noffice hours specifically for assignment assistance.\nFor grading inquiries, please follow the grading inquiry process described later in\nthis syllabus.\nFor general questions, or if you are unsure which TA to contact:\nsend the email to all TAs assigned to your section,\nplace the TA email addresses in the “To” field, and\nplace the instructor email address in the “CC” field.\nThe TA responsible for your question will respond to you.\nAs always, remember to include the course name, section number, and topic in\nthe email subject line.\nLab Schedules\nPlease attend to your registered lab section. Here is the list of all the labs.\nLAB CS1\nSection Day Bldg/Room SectionCount AssignedTo TA\nWed C003 TBD-Attend\nyour lab to know\nthe TA (Check\nlab\nWed webcoureses for\nC019 1:30-2:20 Zoom 60 Zoom link)\nWed C003 TBD-Attend\nyour lab to know\nthe TA (Check\nWed lab\n2:30PM - webcoureses for\nC20 3:20PM Zoom 72 Zoom link)\nWed C003 49 TBD-Attend\nyour lab to know\nthe TA (Check\nWed lab\n3:30PM- webcoureses for\nC21 4:20PM Zoom Zoom link)\nWed C003 58 TBD-Attend\nyour lab to know\nthe TA(Check\nWed lab\n4:30PM - webcoureses for\nC22 4:20PM Zoom Zoom link)",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_course_description_0",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Course Description (Part 1) | COP 3502C ENGR-COMP SCI 3(3,1)Computer Science I: PR: Complete\nall of the followingComplete at least 1 of the following: COP3223C -\nIntroduction to Programming with C (3) EGN3211 - Engineering Analysis\nand Computation (3)AndComplete the following: MAC1105C - College\nAlgebra (3)All with a grade of C (2.0) or better. Problem solving\ntechniques, order analysis and notation, abstract data types, and\nrecursion. Fall, Spr, Sum\nThis is an introductory course on data structures and the design and\nanalysis of algorithms. The course will cover various problem-solving\ntechniques, recursions, abstract data types and common data structures\n(such as arrays, linked lists, stacks, queues, binary trees, binary heaps,\nhash tables, etc.), sorting techniques, and search algorithms. The course\nwill also discuss mathematical techniques for analyzing algorithms in\nterms of time and space efficiency.\nGeneral Education Program (GEP)\nUCF's General Education Program (GEP) provides a cohesive learning\nexperience across five key areas. Each course is designed to help\nstudents build essential skills and knowledge that connect across\ndisciplines, preparing them for success in their academic, civic, and\nprofessional lives. This foundation equips students to make informed\ndecisions and navigate a rapidly changing world.\nSpecifically, the GEP is intentionally designed to:\nIntroduce students to a broad range of foundational knowledge.\nProvide students the opportunity to explore potential academic\nmajors, minors, and careers.\nEquip students with the analytic and expressive skills required to\nengage in chosen pursuits.\nDevelop critical thinking skills.\nEncourage lifelong learning.\nStudent Learning Outcomes\nBy the end of this course, students will be able to:",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_course_description_1",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Course Description (Part 2) | 1. Analyze algorithms using Big-O notation, summations, and\nrecurrence relations.\n2. Implement and apply dynamic memory allocation, recursion,\nand modular programming in C.\n3. Design, implement, and use fundamental data structures,\nincluding linked lists, stacks, queues, and hash tables.\n4. Implement and evaluate searching and sorting algorithms,\nincluding binary search, selection, bubble, insertion, merge, and\nquick sort.\n5. Construct and manipulate tree-based and hierarchical data\nstructures, including binary search trees, AVL trees, heaps, and\ntries.\n6. Apply bitwise operators and base conversion in solving\ncomputational problems.\n7. Develop, test, and debug programs in C that integrate multiple\ndata structures and algorithms to solve non-trivial problems\nefficiently.\nRequired Course Materials and Resources\nNo book is required for this class. Notes and addtional resources will\nbe avaiable on webcourses\nA $10 subscription of Codegrade platform is required for\nprogramming assignment submission (link will be available in the\nfirst lab/programming asssignment)\nHardware/Software/Tools Requirements(You are not\neligible to continue this class without them):\nHere is the list of hardware/software needed to participate in this course. As the\ncourse is online, LockDown browser with webcam settings will be used for the\nexams and quizzes. This list is subject to change according to various\ncircumstances during the semester.\n1. Latest version of Zoom software. Without the latest version of Zoom,\nyou will not get many features. So, please check whether you are\nusing the latest version.\n2. Webcam (two webcams in two different devices are needed. You\ncan use the camera of your phone as one of the two cameras),\nspeaker, and microphone for attending exams and lectures.",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_course_description_2",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Course Description (Part 3) | 3. Adequate Internet bandwidth.\n4. Latest version of LockDown Browser (download it from the link\nprovided in the test quiz). I have created a LockDown browser test\nquiz. Please download it from there. DO NOT download it from\nanother source, as it might not work. Please read the privacy policy:\nhttps://web.respondus.com/privacy/privacy-additional-lockdown-\nbrowser/\n5. You need a computer and an operating system that will support all\nthe required software.\n6. All assignments must be done in C, and must compile and run in the\nCodeGrade (https://www.codegrade.com/ ) grading platform to receive\ncredit (any changes about the platform will be announced in the class). Do\nnot directly register to this website. You will be automatically asked to\nregister while you submit your first lab. It will cost you $10.\n1. You can use any IDE/compiler you wish to use, but the code must work on\nCodegrade to receive credit.\ni. In the class, I generally write code in repl.it (https://repl.it/), online\ngdb compiler (https://www.onlinegdb.com/online_c_compiler),\nand in codeblocks as it is easy to show in the class environment.\nii. I strongly recommend that you use an IDE that has debugging\ncapability. You can also debug code in an online gdb compiler\n(https://www.onlinegdb.com/online_c_compiler). But it has some\nsize limitations as it is free. There is a video on how to debug code\nusing the online GDB compiler on the module. However, the main\nsteps are the same regardless of the IDE you use.\nZoom Sessions Policy and Recording\nThis course will use Zoom for most of the synchronous (“real-time”) class\nmeetings. The lecture will take place during the regular lecture schedule. You will\nfind the Zoom meeting link in the Zoom section of Webcourses. In various cases,",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_course_description_3",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Course Description (Part 4) | the instructor can also publish a pre-recorded lecture if needed.\nAccessing Zoom Meeting:\nPlease take the time to familiarize yourself with Zoom by visiting the Link of\nthe UCF Zoom Guides. [https://cdl.ucf.edu/support/webcourses/zoom/]. You may\nchoose to use Zoom on your mobile device (phone or tablet). But, it is highly\nrecommended to use a computer so that you can actively participate during the\nlecture. The above link has some very good video tutorials on how to access\nzoom through webcourses and sso with your ucf credentials.\nAccessing Zoom Recording (if available):\nIf a Zoom session is recorded and released in cloud recording, then follow the\nsteps to access the recording.\n1. Go to webcourses->specific course -> zoom -> cloud recording\n2. After clicking the specific recorded session, it may ask you to log in\n3. Choose SSO option (do not put your email and password)\n1. If you choose SSO option, it will ask your domain\n2. Put ucf.zoom.us The ucf part will be blank and just put ucf there\n3. Then it will ask for your nid and password\n4. Then you should be able to access it.\nZoom meeting policy:\nYou must sign in to my Zoom session using your UCF NID and password\nthrough SSO option.\nDo not share the Zoom meeting link with anyone outside of your class\nImproper classroom behavior is not tolerated within Zoom sessions and\nmay result in a referral to the Office of Student Conduct.\nIf there is no technical issue, the Zoom session and all the activities will\nbe recorded. The activities include: screen sharing, any webcam video,\nchatting, voice communication, and responses, etc.)\nIt is expected that the discussion will be at a professional level, relevant,\nand not disruptive. Note that irrelevant chatting can also be disruptive and\nwill be displayed in the recorded session.",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_course_description_4",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Course Description (Part 5) | Improper classroom behavior is not tolerated within Zoom sessions and\nmay result in a referral to the Office of Student Conduct.\nYou have to use your original official name (the name I have in\nWebcourses) while attending the lecture (no phone number or any other\nname)\nYour camera should be turned off during the lecture\nYou have to keep your microphone MUTED always. There will be a QA\nsession after each topic. So, note down any questions for the QA session.\nDuring the QA session, press the \"Raise Hand\" button. The instructor will\ngive a chance to ask questions to a certain number of students, depending\non the pace of the lecture. The instructor will unmute your mic if you are\nchosen to ask a question.\nIn case there is a problem during the lecture, such as the instructor's\nscreen not being visible to everyone, or the instructor is showing a\ndifferent screen while talking about a different one, then you are allowed\nto unmute and let the instructor know about the issue. Or write it in the\nchat.\nDo not wait for the recording. In various cases, the instructor may or may\nnot release the recorded lecture. So, give your complete attention and don't\nwait for the recording, as you might not have them in some situations.\nIf the recorded video is released, you are not allowed to share the recorded\nvideo with anyone.\nYou can contact Webcourses@UCF SupportLinks to an external\nsite. [https://cdl.ucf.edu/support/webcourses/] if you have any technical\nissues accessing Zoom.]\nCourse Assessment and Grading Procedure\nThe tentative point distribution will be as follows. Depending on the course flow\nand the situation, the course instructor may change the weights for future items.\nAny changes will be announced on webcourses or in the class:",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_0",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy | Syllabus quiz 0.5%\nLock Down Browser Test quiz 0.25\nC review Exercises and week 1 lab 1.75%\nassignment\nProctored LockDown Browser Quizzes 15% [5% for each]\n(best 3 out of 4)\nLab work and exercise submission in 7%\nwebcourses\nIndividual Programming Assignments (PA) 22.5% total [4.5%\n(5 large assignments) for each PA)\nProctored LockDown Browser Lab Exam 5%\n(1 timed coding problem)\nProctored LockDown Browser Midterm 22%\nexam\nProctored LockDown Browser Final Exam 27%\nTotal 101%",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_1",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 1) | Letter Grade Percentage\nA 100% - 90%\nA- < 90% - 86%\nB+ < 86% - 82%\nB < 82% - 78%\nB- < 78% - 74%\nC+ < 74% - 70%\nC < 70% - 66%\nC- < 66% - 62%\nD+ < 62% - 58%\nD < 58% - 54%\nD- < 54% - 50%\nF < 50% - 0%\nPolicies for Course Grade\nFinal Exam Policy:\nPlease note that you must have to attend the final exam and earn a score of at\nleast 40% on the final exam to be eligible to get C or better grade in this course,\nregardless of your grade based on the scale given above. For example, a student\nreceiving a final grade of 75 in the course, but who earned only a 30% on the\nfinal exam, would receive a C-. This policy isn’t designed to stress anyone out.\nIt’s primarily in place to ensure that students can’t blow off the entire last part of\nthe course and still earn a C or higher.\nQuiz Policy:\nMy Quizzes are mini exams. As the lowest quiz will be dropped, there will not\nbe any makeup quizzes if you miss one quiz. For an excused reason, a quiz\nmakeup maybe arranged. However, it has to be requested before the quiz.\nLab Sessions\nIn addition to the main lecture, this course also includes recitation (lab)\nsections. The size of a lab section is smaller compared to the main lecture\nsession. So, you can actively code, take help from TA, and learn. You have\nto attend the lab session of your registered lab section. In case for an\nexcused reason if you fail to attend your registered lab, you can get our\npermission to attend another session. One of the primary purposes of the\nrecitation is to reinforce the information presented in the main lecture. You\nwill be given various problems to solve and it is also a good opportunity for\nexercise and take live help from the TA. Some of the lab work needs to be\nsubmitted for grading. Additionally, because of the course's large",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_2",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 2) | amount of material, there may be instances where new content is\nintroduced in the lab that isn't covered in the main lecture. Generally,\nyou will be required to submit your lab work by a deadline, and it will\nbe graded.\nIt is highly recommended that you complete or nearly complete your\nlab work during the lab session itself. Procrastinating until the last\nfew days before the deadline is not advisable. Although I provide\nsome extra time for completing the lab, skipping the session and\nwaiting until the deadline to start working on it would be a poor\ndecision.\nExercise Submission Policy:\nDoing exercise will enforce your learning the materials covered and it will be also\nvery good practice for the exams and quizzes. I will regularly post topic-wise\nexercises based on the topics we cover in the class. If for a reason a topic could not\nbe covered in a particular lecture, the exercise will be released later after\ncompleting the topic. Sometimes you might have a very short 1- or 2-days deadline\nto complete the exercise and submit them. The deadline can get shorter if there is a\nquiz and the topic is part of the quiz. After the deadline, I will post the solution so\nthat you can recheck the answers and better prepare for the quiz/exam. It is\nimportant to note that, an exercise submission after releasing the solution will\nnever be accepted for grading, even if you have an excused reason.\nPlease follow the following general guideline to submit your any pdf-based\nexercises.\n1. You should not type in the answers. Either use pen if your device support or\nprint them and write in hand. If you do not have access to printer, answer them\nsequentially in a paper (typed up submissions will receive a 50% penalty)\n2. Make sure handwritten are clear and not too small",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_3",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 3) | 3. In case you are using printer, please submit the answers directly on the problem\npages provided (if you need extra space then include a blank page with your\nanswer and then continue on the provided pages)\n4. Put ALL pages of a single topic into a single .pdf (there are many pdf merging\ntools online if you don't have one installed)\n5. ensure that ALL pages are present (even if you did not complete the exercises on\nthem)\n6. ensure that all the pages are UPRIGHT and IN ORDER\n7. please use any scanner or scanner-like software/app that turns a captured\nphoto into a scan-like black and white image. I use Genius Scan app on my\nphone very often when I need to scan. It can detect your page automatically and\ncapture them one after another and convert them into pdf. I am sure you will\nlove it!\n8. if you do not use such kind of app, your images are dark, crooked, and your files\nare huge and take forever to open when we grade them on webcourses\n9. make sure the image doesn't cut off any of your work nor the exercise numbers\n(scanner software should help here)\n10. Submit at least 15 minutes before the deadline as you might face technical\ndifficulties during this process. Note that, I will not accept any submission by\nemail. Due to the volume of emails I receive every day, I will not be able to\nmanage any of such submission by email. It creates significant difficulties and\ninconvenience to grade anything submitted via email.\nProgramming Assignments and Codegrade platform (Read the\npolicy and know what is considered as cheating in programming\nassignments!)\nProgramming assignments will be posted on Webcourses and must be completed\nindividually.\nFor implementation-based assignments, you are required to use the algorithms,",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_4",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 4) | data structures, and implementation approaches taught in class when applicable.\nYou should rely only on class notes, lecture materials, recordings, and official\ncourse resources. Using outside implementations, online resources, YouTube\ntutorials, AI tools (including ChatGPT or similar systems), or externally sourced\ncode is not allowed. Deviation from the related class implementations may be\nconsidered academic misconduct and can result in severe penalties, including a\n-100 grade on the assignment.\nThis policy exists to ensure that students fully understand and practice the\nconcepts taught in class, reinforce what they learned, and actively engage with the\ncourse materials and class resources. Part of the learning process is digging\nthrough lecture notes, recordings, examples, and other provided resources to\ndevelop strong problem-solving and programming skills.\nFor Programming Assignments, collaboration with other students is not permitted\nunless explicitly stated otherwise. If you need help, please consult the instructor\nor TAs during office hours.\nDo not share your code with others or post assignment materials/code online to\nseek help. Such incidents may be reported and investigated, and disciplinary\naction may follow.\nAll assignments must be done in C, and must compile and run in the codegrade\n(https://www.codegrade.com/ ) grading platform to receive credit (any changes\nabout the platform will be announced in the class). Late assignments will not be\naccepted.\nMake sure to test your code thoroughly with more test cases created by you\nfollowing the input/output specification mentioned in the assignment. If your\ncode passes all the test cases in codegrade, still you might not get full credit\nfor the submission. Also, we will test your code with more grading test cases",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_5",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 5) | while grading. We will also check how good your code is and whether you have\nfollowed all the instructions for the problem or not. If we see that you have\nhardcoded or tried to play with the codegrade test cases to match the test cases\nwithout solving the actual problem, we will consider it as cheating and will take\nfurther action based on the cheating policy.\nIn addition to the solution to the problem of the assignment, you should write good\nand efficient code. Put important comments (header comment with your authorship\nand brief description of the code you are writing is a must, also add comments to\nyour import block of code, before all the functions, etc.), use good variable names,\nindent your code properly, and use reasonable white space. Otherwise, you may\nexpect 20-25% penalty on the assignment.\nExam Policy:\nAll quizzes and exams will be on webcourses and will be\ntaken using LockDown browser with two cameras and\nscreen sharing settings.\nAll exams are strictly closed-book, closed-notes, closed-\ninternet, and closed-AI exams. The use of phones, smart\ndevices, internet browsing, search engines, AI tools\n(including ChatGPT or similar systems), communication\ntools, or any unauthorized resources is strictly prohibited\nduring the exam.\nDuring the exam, it is just you and the exam. You are\nexpected to complete all work independently.\nYou may use scratch paper; however, before the exam\nbegins, you must clearly show on camera that all scratch\npaper is completely blank.\nAll material covered in lectures, assignments, labs,\ndiscussions, and other course-related content is\nconsidered fair game for the exams. The extent to which an\nexam is cumulative or comprehensive will be discussed as\nthe exam date approaches.\nManage your time efficiently during the exam!!!\nMakeup Work Policy",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_6",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 6) | Make-up exams and submissions will be very limited. Make-up exams will be\ngiven in the event of university-excused absences. Excused absences, as\ndefined (or at least suggested) by the Academic Regulations and Procedures\ngoverning the university, may include: “serious illness, serious family\nemergencies, special curricular requirements (e.g., judging trips, field trips,\nand professional conferences), military obligations, severe weather conditions,\nand religious holidays.” Furthermore, “participation in official University-\nsponsored activities, such as music performances, athletic competition, or\ndebate” constitutes an excused absence.\nNote that living far from the campus, personal vacation, doing job during\nclass time, family gathering events, job interviews, etc. are not excused\nreasons to request makeup. You should not schedule anything during the class\ntime as you have registered for this class keeping the class schedule in mind.\nIn the case of planned absences, make-up exams must be arranged with the\ninstructor prior to the absence in question. Of course, some excused absences\ncannot be foreseen (e.g., illness or serious family emergencies). In these cases,\nyou must contact the instructor as soon as possible (within 24 hours) to\nschedule a makeup exam. If you do not contact the instructor in a timely\nmanner (typically within 24 hours of missing the exam), you may be\ndenied a make-up exam.\nAssignment deadlines may be extended in these situations as well, or, in the\ncase of planned absences, you may be required to turn the assignment in early\nor on time, depending on the nature of the assignment and the circumstances\nof the absence; this decision is at the discretion of the course instructor. Your",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_7",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 7) | best course of action is to inform me as early as possible if you know you’re\ngoing to be out of town or missing classes for an excused reason!\nMake-up exams and deadline extensions may be granted in other severe\nsituations as well, at the discretion of the instructor. TAs are unable to give\nextensions. All such requests must go through the course instructor.\nNote that if I made a solution available to all the students for any assignment,\nthen the excused extended deadline will not work for the same assignment.\nThe instructor will assign a different problem in that case.\nAttendance and class participation\nThere is no grade for attendance. However, attending and actively\nparticipating in the class and lab is critical to grasp the concepts and\nprepare for the exams. Although there is no attendance grade, I will\nrandomly take attendance in different classes for my recording purpose\nand it will be taken within the first 2-3 minutes of the class. Moreover, in\ncase of very low attendance regularly, I might announce in the class\nabout new attendance policy and introduce the attendance grade. It\nmight not be announced on the webcourses. I also encourage you to\nbring a laptop to the class. For attendance tracking, we will use UCF Here\nweb app: https://here.cdl.ucf.edu/\nMake-up Assignments for Authorized University Event\nor Co-curricular Activities\nStudents who represent the university an an authorized event or activity\n(for example, student athletes) and who are unable to meet a course\ndeadline due to a conflict with that event must provide the instructor with\ndocumentation in advance to arrange a make-up. No penalty will be\napplied if the student gives advance notice and communicates with the\ninstructor following UCF policy. In the case of an authorized university",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_8",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 8) | activity, it is your responsibility to show the instructor a signed copy of the\nProgram Verification Form for which you will be absent, prior to the class\nin which the absence occurs or due date you need extended. For more\ninformation, see UCF Policy 4-401.\nMake-up Assignments for Religious Observances\nA student who desires to observe a religious holy day of his or her\nreligious faith must notify their instructor as soon as practicable prior to\nthe observance. Students who are absent because of religious\nobservances will be permitted a reasonable amount of time to complete\nany missed work. For more information, see UCF Regulation 5-020.\nArtificial Intelligence (AI) Use Policy\nUse of Generative Artificial Intelligence (GenAI) is prohibited. Use of\nGenAI tools via website, app, or any other access, is not permitted in this\nclass. All components of assignments in this course must be\nindependently and originally completed by the student. Representing\nwork created by GenAI as your own work will be treated as plagiarism.\nGuidelines to be successful in this course\nThis is a very challenging class. You need to spend a significant amount\nof time per week on the course. It is assumed that you are a full-time\nstudent and can give significant time for this class and borrow\nsometimes from other easier classes as well.\nWorking on any assignment might take several hours. So, start any\nassignment/submission early in time so that you will not feel helpless in\nthe last moment and will not miss the deadline. (Assignments are not\naccepted after the due date time).\nAttend all lectures, participate in class discussion, and review all lecture,\nnotes, and codes.\nGo through the code examples and map them to the concepts in\nPowerPoint/pdf. Re-write them from scratch.",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_9",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 9) | Do the exercises on your own before looking at the solutions. You need\nto understand the reasons behind the answers of the exercises. Again,\nget help from us during our office hours while working on them.\nComplete the lab problems.\nComplete all programming assignments and DO NOT cheat.\nDuring all the above steps, whenever you see something that doesn't make\nsense or you don't understand, then visit any one of us during office hours with\nyour specific questions.\nThe above steps will help you to learn and do good in the exams and tests. Of\ncourse, you need to practice them multiple times so that you can answer similar\ntypes of concepts faster in a timed exam.\nUnderstand the syllabus clearly and take the Syllabus Quiz seriously.\nTake all quizzes, midterm and final exam.\nAlthough the lowest quiz grade will be dropped, it is a good idea to\nprepare and take all the quizzes. It will help you to prepare for the major\nexams.\nAsk yourself before quizzes/exams (Self check):\nCan you do the examples on the slide and their varieties without\nlooking at the solutions?\nDo you know why a line was written in a particular example?\nDo you know all the syntax and concepts discussed in the sides\nand can you use the syntax and concepts for another situation?\nDo you know the reason behind the output in the slide? Can you\nderive them on your own by tracing the code?\nCan you answer the exercises (and extra examples) questions\naccurately without looking at the solution, not by memorizing,\nbut by tracing?\nDo you know why a particular answer is correct and why the\nother answers are wrong?\nPractice accordingly so that you can answer the questions in\na timely manner.\nCS Major? Extra reading, if you are a computer science\nMajor (Foundation Exam!)",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_10",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 10) | If you are a computer science major, you will have to take foundation exam which\nis based on the topics we will cover in this course. However, the foundation exam\nquestion format could be quite different compared to the questions in this course.\nIn order to prepare well for foundation exam, you should also practice the past\nfoundation exams in addition to the course work. You should do it topic-wise, i.e.,\nwhenever we complete a topic in the class, you should read the materials, do the\nexercises and course work, and then study the past foundation exams for that\ntopic. It will help you prepare well for the foundation exam. In this link you will\nfind past foundation exam questions and solutions with many useful tips:\nhttps://www.cs.ucf.edu/~dmarino/ucf/fnd.html",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_11",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 1) | Every now and then, someone on my team will make a minor error while\ngrading an assignment or an exam. If you want to reviwe your quiz or exam or\nyou think your work is mis-graded, you must bring the matter to me and the TA\nfor resolution within 5 days of the assignment or exam having been graded\n(Except final exam and last assignment. They have to be inquired within 6 hours\nafter receiving your grade). In general, you need to pick a face to face office\nhours of the TA who graded this and inform the TA about it 24 hours before the\noffice hour so that the TA can bring the paper with them. If you want to review\nthe paper with me, then let them know as well so that they can send a scanned\ncopy to me and we can review the paper together douring my office hour. In\ncase inquiries for non-exam grading items, you should be able to see which TA\nhas graded it. You should write that TA an email and put me in the cc of the\nemail with the inquiry. If you are unable to determine which TA has graded it,\nsend all the TA of your section an email and put me in the cc as discussed in the\nemail policy. If you do not hear back from us for a grading inquiry within 48\nhours, please follow-up in the same email thread. [Again, I would like to remind\nyou that, do not use webcourses message while writing to us. Use only your\nUCF email].\nDisability Access & Accommodations\nThe University of Central Florida is committed to providing equal access\nto all students with disabilities (ADHD, learning disabilities, Autism,\nchronic medical conditions, physical disabilities, etc.). To receive\nconsideration for reasonable disability-related course accommodations,\ndisabled students must contact Student Accessibility Services (SAS) and\ncomplete the steps required for SAS to review accommodation requests.",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_grading_policy_12",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 2) | More information can be found on the UCF Student Accessibility Services\nwebsite under the Start Here tab or by contacting SAS directly (Ferrell\nCommons 185; sas@ucf.edu; Phone - 407-823-2371).\nApproved accommodations are shared with course instructors via the\nSAS Course Accessibility Letter. Implementing certain accommodations\nmay require discussion and specific considerations of the course design,\ncourse learning objectives, and the individual academic and course\nchallenges experienced by the student. While students with disabilities or\nchronic health needs are also encouraged to discuss any course\nconcerns with professors in addition to contacting SAS, professors are not\nrequired to facilitate disability-related adjustments to the course unless\nthe professor has received a Course Accessibility Letter from SAS that\noutlines approved accommodations.",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_academic_integrity_0",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Academic Integrity (Part 1) | Students should familiarize themselves with UCF’s Code of Conduct at\nStudent Conduct and Integrity Office. According to Section 1, “Academic\nMisconduct,” students are prohibited from engaging in:\na. Academic misconduct is defined as any submitted work or behavior\nthat obstructs the instructor of record's ability to accurately assess\nthe student's understanding or completion of the course materials or\ndegree requirements (e.g., assignment, quiz, and/or exam).\nExamples of academic misconduct include but are not limited to:\nplagiarism, unauthorized assistance to complete an academic\nexercise; unauthorized communication with others during an\nexamination, course assignment, or project; falsifying or\nmisrepresenting academic work; providing misleading information to\ncreate a personal advantage to complete course/degree\nrequirements; or multiple submission(s) of academic work without\npermission of the instructor of record.\nb. Any student who knowingly helps another violate academic\nbehavior standards is also in violation of the standards.\nc. Commercial Use of Academic Material. Selling of course material to\nanother person and/or uploading course material to a third-party\nvendor without authorization or without the express written\npermission of the University and the instructor of record. Course\nmaterials include but are not limited to class notes, the instructor of\nrecord's slide deck, tests, quizzes, labs, instruction sheets,\nhomework, study guides, and handouts.\nd. Soliciting assistance with academic coursework and/or degree\nrequirements. The solicitation of assistance with an assignment, lab,\nquiz, test, paper, etc., without authorization of the instructor of\nrecord or designee is prohibited. This includes but is not limited to",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_academic_integrity_1",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Academic Integrity (Part 2) | asking for answers to a quiz, trading answers, or offering to pay\nanother to complete an assignment. It is considered Academic\nMisconduct to solicit assistance with academic coursework and/or\ndegree requirements, even if the solicitation did not yield actual\nassistance (for example, if there was no response to the\nsolicitation).\nResponses to Academic Dishonesty, Plagiarism, or Cheating\nStudents should also familiarize themselves with the procedures for\nacademic misconduct in UCF’s student handbook, The Golden Rule. UCF\nfaculty members have a responsibility for students’ education and the\nvalue of a UCF degree, and so seek to prevent unethical behavior and\nrespond to academic misconduct when necessary. Penalties for violating\nrules, policies, and instructions within this course can range from a zero\non the exercise to an “F” letter grade in the course. In addition, an\nAcademic Misconduct report could be filed with the Office of Student\nConduct and Academic Integrity, which could lead to disciplinary\nwarning, disciplinary probation, or deferred suspension or separation\nfrom the University through suspension, dismissal, or expulsion with the\naddition of a “Z” designation on one’s transcript.\nBeing found in violation of academic conduct standards could result in a\nstudent having to disclose such behavior on a graduate school\napplication, being removed from a leadership position within a student\norganization, the recipient of scholarships, participation in University\nactivities such as study abroad, internships, etc.\nTitle IX\nTitle IX prohibits sex discrimination, including sexual misconduct, sexual\nviolence, sexual harassment, and retaliation. If you or someone you know\nhas been harassed or assaulted, you can find resources available to",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_academic_integrity_2",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Academic Integrity (Part 3) | support the victim, including confidential resources and information\nconcerning reporting options at Let's Be Clear and UCF Cares.\nFor more information on access and community engagement, Title IX,\naccessibility, or UCF's complaint processes contact:\nTitle IX – ONAC – Office of Nondiscrimination & Accommodations\nCompliance & askanadvocate@ucf.edu\nDisability Accommodation – Student Accessibility Services –\nStudent Accessibility Services & sas@ucf.edu\nAccess and Community Engagement (including the Ginsberg\nCenter for Inclusion and Community Engagement, Military and\nVeteran Student Success, and HSI Initiatives)\nUCF Compliance and Ethics Office – Compliance, Ethics, and Risk\nOffice & complianceandethics@ucf.edu\nThe Ombuds Office is a safe place to discuss concerns.\nReporting an Incident or Issue\nIf you believe you have experienced discrimination by any faculty or staff\nmember, contact the Office of Nondiscrimination & Accommodations Compliance\nvia the ONAC website or at 407-823-1336. You can also choose to report using\nthe UCF Integrity Line either anonymously or as yourself at 1-855-877-6049 or by\nusing the online form. UCF cares about you and takes every report seriously. For\nmore information see the Reporting an Incident or Issue Webpage.\nDeployed Active-Duty Military Students\nStudents who are deployed active duty military and/or National Guard\npersonnel and require accommodation should contact their instructors as\nsoon as possible after the semester begins and/or after they receive\nnotification of deployment to make related arrangements.\nCampus Safety\nAt UCF Public Safety and Police, safety is the top priority. Emergencies on\ncampus are rare, but if one should arise, it's important to be familiar with\nsome basic safety and security concepts.",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_academic_integrity_3",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Academic Integrity (Part 4) | In an emergency, always dial 911.\nEvery UCF classroom has an Emergency Procedure Guide posted\non a wall near the door, which will show you how to respond to a\nvariety of situations. This guide can also be found online here.\nIn the event of an active threat, remember AVOID, DENY, DEFEND.\nChoose the best course of action and act immediately. Watch the\nvideo here to learn more.\nAVOID. Pay attention to your surroundings and have an exit\nplan. Get as much distance and as many barriers between\nyou and the threat as quickly as possible.\nDENY. When avoiding is difficult or impossible, deny the threat\naccess to you and your space. Lockdown by creating barriers,\nturning the lights off and remaining quiet and out of sight.\nMake sure your cell phone is silenced, but do not turn it off.\nDEFEND. When you are unable to put distance between\nyourself and the threat, be prepared to protect yourself.\nCommit to your actions, be aggressive and do not fight fairly.\nDo whatever it takes to survive.\nFor emergencies on campus, UCF will utilize the UCF Alert system.\nAll UCF students, faculty and staff are automatically enrolled to\nreceive these email and text alerts, however, it's a good idea to\nfrequently ensure your contact information is up to date.\nFinancial Aid Accountability\nAll instructors/faculty are required to document students’ academic\nactivity at the beginning of each course. In order to document that you\nbegan this course, please complete this activity by the end of the first\nweek of classes or as soon as possible after adding the course. Failure to\ndo so may result in a delay in the disbursement of your financial aid.\nClass Schedule\nTentative Schedule:\nThe following table contains the tentative schedule for lectures, quizzes,",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_academic_integrity_4",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Academic Integrity (Part 5) | assignments, and exams. Depending on the progress of the class, some topics\nmay be covered earlier or later than scheduled.\nAny changes to the assignment or quiz schedule will be announced in class or\nWebcourses. Please check Webcourses regularly for updates, announcements,\nexercise deadlines, and lab submission deadlines, as some deadlines may\noccur at different times of the day. Additional details can be found in the\nexercise submission policy. (Note that our week starts on Wednesday and\nends on Tuesday, as the semester starts on Wednesday)\nWeek Wednesday\nDATE Monday\nAdditional Notes\nCourse Syllabus Quiz, lockdown browser test\nA bit more C\nOverview; quiz, and various exercises due by\nreview;\n1 May 13 – Review of\nDynamic Tuesday; See Weekly Learning Module;\nMay 19 Pointers;\nMemory Regularly check exercise/lab\nPass-by-\nallocation submission deadline;\nReference;\n(DMA), (File\nString\nI/O with a 2D\n(Watch the\nstruct array\nrecordings on\nDMA example\nStructure and\n(will be covered\npointers\nin the lab)\navailable on\nthe module\nbefore the\nnext lecture)\nMemorial Day See Weekly Learning Module;\nDynamic Memory (Monday, May Regularly check exercise/lab\nAllocation; (You 25; No Class);\n2 May 20 – submission deadline;\nwill need to watch (May need to\nMay 26\nrecordings to watch recording to\ncover more cover some topics-\nexamples) it will be\nannounced)\n(Tentative Assignment 1 Due by\nLinked list; More Linked Sunday)-Topic: DMA;\nList: Queue;\n3 May 27 – See Weekly Learning Module;\nQueue\nJune 02 Regularly check exercise/lab\nimplementation\nsubmission deadline;\nusing linked list\nQuiz 1 on See Weekly Learning Module;\nLockDown More Stacks and Regularly check exercise/lab\nJune 03– Browser (20-30 applications\nsubmission deadline;\n4 June 09 minutes);\nArray-based linear\nand circular\nqueue; Stacks;",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cop3502c_academic_integrity_5",
+    "text": "Course: COP3502C | Instructor: Tanvir Ahmed | Section: Academic Integrity (Part 6) | (Tentative Assignment 2 Due by\nRecursion; (you SLMP, Binary Sunday)-Topic: Linked list and Queue;\nneed to watch Search; Big-O\nSee Weekly Learning Module;\n5 June 10– some recordings notation,\nRegularly check exercise/lab\nJune 16 for more Algorithm\nsubmission deadline;\nexamples) Analysis\nQuiz 2 on Lab Exam on Wednesday (tentative).\nMore algorithm LockDown May move the Wednesday as well.\nanalysis;\n6 June 17– Browser (20-30 See Weekly Learning Module;\nSummations;\nJune 23 min); Regularly check exercise/lab\nRecurrence submission deadline;\nrelations;\nO(n^2)\nMidterm Exam on Sorting See Weekly Learning Module\nJune 24–\n7 LockDown Merge Sort;\nJune 30\nBrowser(70\nminutes);\nLecture after\nexam:\nO(n^2)\nSorting\nAny remaining\n(Tentative Assignment 3 Due by\n8 July 01 – Merge Sort; quicksort;\nSunday)-Topic: Recursion;\nJuly 07 Quick Binary Tree;\nRegularly check exercise/lab\nSort; Binary Search\nTree; submission deadline;\nWithdrawal Deadline\nBST continue;\nWednesday Jul 08;\nAVL Tree;\n9\nJuly 08 – See Weekly Learning Module;Regularly\nJuly 14\ncheck exercise/lab submission\nQuiz3 on\nHeaps and (Tentative Assignment 4 Due by\n10 July 15 – LockDown\nPriority\nJuly 21 Browser(20- Sunday)-Topic: Sorting and\nQueues;\n30 Searching; See Weekly Learning\nminutes); Module;Regularly check exercise/lab\nsubmission\nTries;\nHash table\n(in lab)\nQuiz4 on\nSee Weekly Learning Module;Regularly\nJuly 22 – LockDown\n11 Bitwise\nJul 28 Browser check exercise/lab submission\nOperator\n(20-30\nminutes)\nAny remaining\ntopics, Final\nexam\noverview\nFinal Exam on (Tentative Assignment 5 Due by\nJuly 29 –\n12 Locked Down\nSunday);-Topic BST\nAug 04\nBrowser\n(July 29)\nGrades due by Wednesday, August 5, 2026 12:00 PM (Noon)",
+    "source": "Syllabus - COP3502C (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "COP3502C",
+      "original_course_code": "COP3502C",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "COP 3502C C003 COMPUTER SCIENCE I - Simple Syllabus.pdf"
+    }
+  },
+  {
     "id": "syllabus_cap4053_course_overview_0",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Overview | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nCAP 4053 - AI FOR GAME PROGRAMMING\nSection: B001\nCollege of Engineering and Computer Science\nDepartment of Computer Science\nCourse Information\nTerm: Summer 2026\nClass Meeting Days: TR\nClass Meeting Time: 03:00PM - 06:50PM\nClass Meeting Location: TCH 0103\nModality: P\nCredit Hours: 3.00",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Overview | CAP 4053 - AI FOR GAME PROGRAMMING\nSection: B001\nCollege of Engineering and Computer Science\nDepartment of Computer Science\nCourse Information\nTerm: Summer 2026\nClass Meeting Days: TR\nClass Meeting Time: 03:00PM - 06:50PM\nClass Meeting Location: TCH 0103\nModality: P\nCredit Hours: 3.00",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -31,7 +451,7 @@
   },
   {
     "id": "syllabus_cap4053_contact_information_1",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Contact Information | After class or by appointment\nEmail: Johnathan.Mell@ucf.edu\nStudent Learning Outcomes\nAll outcomes apply to 5937 (graduate) students. Outcomes marked with a (G) only apply to\ngraduate students, and the remainder make up the 4053 (undergraduate) list.\nLearn how to make video games\n(G) Learn how to lead a video game design team\nIdentify and explain some areas of game programming that AI programmers handle that are not\ntraditionally defined by academia as AI\nExplain what makes some Game AI “good” and other Game AI “bad”\nUse the Unity game engine and tutorials to create a simple game with AI, input and other interactive\nfeatures\nEngage with your peers on Discord and communicate professionally about games\nUse basic vector operations to solve basic AI problems such as visibility cone computations\nDemonstrate understanding of the basic process of programming and how time and movement work\nin real-time systems\n(G) Deploy multiple AI systems that serve different functions within your game\nIdentify and explain methods by which modern games implement decision making\nDemonstrate understanding of various pathfinding algorithms used in modern games\nExplain basic steering of entities, and how they achieve their desired effects\nExplain how game developers use focus testing to improve their AI (G) and provide detailed analysis\nof that testing\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 1/12\n\n6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Contact Information | After class or by appointment\nEmail: Johnathan.Mell@ucf.edu\nStudent Learning Outcomes\nAll outcomes apply to 5937 (graduate) students. Outcomes marked with a (G) only apply to\ngraduate students, and the remainder make up the 4053 (undergraduate) list.\nLearn how to make video games\n(G) Learn how to lead a video game design team\nIdentify and explain some areas of game programming that AI programmers handle that are not\ntraditionally defined by academia as AI\nExplain what makes some Game AI “good” and other Game AI “bad”\nUse the Unity game engine and tutorials to create a simple game with AI, input and other interactive\nfeatures\nEngage with your peers on Discord and communicate professionally about games\nUse basic vector operations to solve basic AI problems such as visibility cone computations\nDemonstrate understanding of the basic process of programming and how time and movement work\nin real-time systems\n(G) Deploy multiple AI systems that serve different functions within your game\nIdentify and explain methods by which modern games implement decision making\nDemonstrate understanding of various pathfinding algorithms used in modern games\nExplain basic steering of entities, and how they achieve their desired effects\nExplain how game developers use focus testing to improve their AI (G) and provide detailed analysis\nof that testing",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -61,7 +481,7 @@
   },
   {
     "id": "syllabus_cap4053_course_description_1",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 2) | Note: this class is exam-lite, but requires a substantial amount of time outside class. Especially if you\nare simultaneously enrolled in Senior Design, this can be daunting! Start early, and have regular meetings,\nwith at least some in-person.\nRequired Course Materials and Resources\nGameAI Pro\nNotes: Optional resource! GameAI Pro is a reference guide, and generally I will not assign readings from\nit. It should be used to help guide your development, and reading it is recommended to help elaborate on\nlecture content.\nOnline Access: https://www.gameaipro.com/\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 2/12",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 2) | Note: this class is exam-lite, but requires a substantial amount of time outside class. Especially if you\nare simultaneously enrolled in Senior Design, this can be daunting! Start early, and have regular meetings,\nwith at least some in-person.\nRequired Course Materials and Resources\nGameAI Pro\nNotes: Optional resource! GameAI Pro is a reference guide, and generally I will not assign readings from\nit. It should be used to help guide your development, and reading it is recommended to help elaborate on\nlecture content.\nOnline Access: https://www.gameaipro.com/\nClass Schedule\nSee the Webcourses homepage for the most up to date schedule.\nCourse Assessment and Grading Procedure\nI use an “only-good curve” in my class. That means that I may choose to curve the class in your favor\n(e.g., by shifting the requirement to get an A to a lower percent). But I will not shift the curve away from\nyour favor. This means that if every student gets 94% or above, then you will all get ‘A’s (this would be my\npreference!).\nWe always evaluate games and presentations with multiple viewers and instructors to reduce the impact\nof opinion or personal preference. That said, a good game that does not otherwise stand out is\nexpected to be around a \"B\". \"A\" games are outstanding products, and \"C\" games are functional but\nflawed in several ways. \"D\" games are deeply problematic or lacking features, and \"F\" and below games\nare nearly unplayable or truly trivial efforts.\nThis is a group project. Some of your grade comes from individual assessment, but the majority comes\nfrom team assessments. It is highly unlikely that all members of your team will contribute equally, but\npeer assessments are included in order to mitigate this effect. That said, the intent is for your to succeed",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -76,37 +496,7 @@
   },
   {
     "id": "syllabus_cap4053_course_description_2",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 3) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nClass Schedule\nSee the Webcourses homepage for the most up to date schedule.\nCourse Assessment and Grading Procedure\nI use an “only-good curve” in my class. That means that I may choose to curve the class in your favor\n(e.g., by shifting the requirement to get an A to a lower percent). But I will not shift the curve away from\nyour favor. This means that if every student gets 94% or above, then you will all get ‘A’s (this would be my\npreference!).\nWe always evaluate games and presentations with multiple viewers and instructors to reduce the impact\nof opinion or personal preference. That said, a good game that does not otherwise stand out is\nexpected to be around a \"B\". \"A\" games are outstanding products, and \"C\" games are functional but\nflawed in several ways. \"D\" games are deeply problematic or lacking features, and \"F\" and below games\nare nearly unplayable or truly trivial efforts.\nThis is a group project. Some of your grade comes from individual assessment, but the majority comes\nfrom team assessments. It is highly unlikely that all members of your team will contribute equally, but\npeer assessments are included in order to mitigate this effect. That said, the intent is for your to succeed\nor fail as a team, as in real-world projects.\nYou will note that a substantial part of your grade is peer review. This means that you will be required to\nrate your partners by the amount of effort, skill, and help that they brought to creating the game project.\nThis will be required just after each of the three main game project deliverables. You must do your peer\nreviews at this time, but the peer reviews grades will not be visible until the end of the class (to avoid",
-    "source": "Syllabus - CAP4053 (Summer 2026)",
-    "source_type": "syllabus",
-    "metadata": {
-      "review_type": "syllabus",
-      "course_code": "CAP4053",
-      "original_course_code": "CAP4053",
-      "instructor": "Johnathan Mell",
-      "term": "Summer 2026",
-      "section_name": "Course Description",
-      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
-    }
-  },
-  {
-    "id": "syllabus_cap4053_course_description_3",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 4) | drama!). Actual text of peer reviews will be released on request.\nUndergraduate grade breakdown:\nPercent of Final\nAssignment Sub-part\nGrade\nGame Project 62%\nGame Design Document 15%\nMid-semester presentation (playable\n15%\nprototype)\nFinal presentation (full game) +\nexecutable binary: score comes from 30%\nBOTH parts\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 3/12",
-    "source": "Syllabus - CAP4053 (Summer 2026)",
-    "source_type": "syllabus",
-    "metadata": {
-      "review_type": "syllabus",
-      "course_code": "CAP4053",
-      "original_course_code": "CAP4053",
-      "instructor": "Johnathan Mell",
-      "term": "Summer 2026",
-      "section_name": "Course Description",
-      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
-    }
-  },
-  {
-    "id": "syllabus_cap4053_course_description_4",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 5) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nStatus Report 2%\nQuizzes 6%\nQuiz #1 3%\nQuiz #2 3%\nAssignments 12%\nBoard Game Showcase 3%\nUnity Practicum 3%\nTesting Assignment 3%\nLevel Design Assignment 3%\nPeer Review, Final Attendance (Final peer review is worth double) 20%\nTotal 100%\nGraduate grade breakdown:\nPercent of Final\nAssignment Sub-part\nGrade\nGame Project 60%\nGame Design Document 10%\nMid-semester presentation (playable\n10%\nprototype)\nFinal presentation (full game) +\nexecutable binary: score comes from 30%\nBOTH parts\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 4/12\n\n6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nBiweekly status reports 10%\nQuizzes 6%\nQuiz #1 3%\nQuiz #2 3%\nAssignments 14%\nBoard Game Showcase 2%\nUnity Practicum 2%\nTesting Assignment 2%\nLevel Design Assignment 2%\nTechnical Documentation Assignment 3%\nAnalysis of Playtesting Results 3%\nPeer Review, Final Attendance (Final peer review is worth double) 20%\nTotal 100%\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 5/12\n\n6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Course Description (Part 3) | or fail as a team, as in real-world projects.\nYou will note that a substantial part of your grade is peer review. This means that you will be required to\nrate your partners by the amount of effort, skill, and help that they brought to creating the game project.\nThis will be required just after each of the three main game project deliverables. You must do your peer\nreviews at this time, but the peer reviews grades will not be visible until the end of the class (to avoid\ndrama!). Actual text of peer reviews will be released on request.\nUndergraduate grade breakdown:\nPercent of Final\nAssignment Sub-part\nGrade\nGame Project 62%\nGame Design Document 15%\nMid-semester presentation (playable\n15%\nprototype)\nFinal presentation (full game) +\nexecutable binary: score comes from 30%\nBOTH parts\nStatus Report 2%\nQuizzes 6%\nQuiz #1 3%\nQuiz #2 3%\nAssignments 12%\nBoard Game Showcase 3%\nUnity Practicum 3%\nTesting Assignment 3%\nLevel Design Assignment 3%\nPeer Review, Final Attendance (Final peer review is worth double) 20%\nTotal 100%\nGraduate grade breakdown:\nPercent of Final\nAssignment Sub-part\nGrade\nGame Project 60%\nGame Design Document 10%\nMid-semester presentation (playable\n10%\nprototype)\nFinal presentation (full game) +\nexecutable binary: score comes from 30%\nBOTH parts\nBiweekly status reports 10%\nQuizzes 6%\nQuiz #1 3%\nQuiz #2 3%\nAssignments 14%\nBoard Game Showcase 2%\nUnity Practicum 2%\nTesting Assignment 2%\nLevel Design Assignment 2%\nTechnical Documentation Assignment 3%\nAnalysis of Playtesting Results 3%\nPeer Review, Final Attendance (Final peer review is worth double) 20%\nTotal 100%",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -121,7 +511,7 @@
   },
   {
     "id": "syllabus_cap4053_grading_policy_0",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 1) | Letter Grade Percent range\nA 94-100\nA- 90-93\nB+ 87-89\nB 84-86\nB- 80-83\nC+ 77-79\nC 74-76\nC- 70-73\nD+ 67-69\nD 64-66\nD- 60-63\nF <60\nPast Grades\nIn the past, my grade distribution has been:\nA 30.17%\nA- 29.38%\nB+ 17.38%\nB 11.69%\nB- 8.85%\nC+ 0.95%\nC 1.11%\nC- 0.16%\nD+ or less 0.32%\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 6/12",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 1) | Letter Grade Percent range\nA 94-100\nA- 90-93\nB+ 87-89\nB 84-86\nB- 80-83\nC+ 77-79\nC 74-76\nC- 70-73\nD+ 67-69\nD 64-66\nD- 60-63\nF <60\nPast Grades\nIn the past, my grade distribution has been:\nA 30.17%\nA- 29.38%\nB+ 17.38%\nB 11.69%\nB- 8.85%\nC+ 0.95%\nC 1.11%\nC- 0.16%\nD+ or less 0.32%\nCommunication Expectations\nMessage me on Discord or catch me in class. I recommend using @Instructor on Discord rather than\n@Prof. Mell for a faster response. Responses are normally within minutes to hours, but please allow up to\na day.\nPolicies for Course Grade\nMakeup Work Policy/Missed/Late Assignments\nPer university policy, you are allowed to submit make-up work (or an equivalent, alternate assignment) for\nauthorized university-sponsored activities, religious observances, or legal obligations (such as jury duty).\nIf this participation conflicts with your course assignments, I will offer a reasonable opportunity for you to\ncomplete missed assignments. The make-up assignment and grading scale will be equivalent to the\nmissed assignment and its grading scale. In the case of an authorized university activity, it is your\nresponsibility to show me a signed copy of the Program Verification Form for which you will be\nabsent, prior to the class in which the absence occurs. In any of these cases, please contact me ahead\nof time to notify me of upcoming needs. Missing without advanced notice is handled on a case-by-\ncase basis, but may result in zero credit!\nAttendance\nI will not generally be taking attendance as part of your grade, except the assignment work days, during\nwhich part of your grade counts toward assignments. Additionally, there will be required quizzes on the\nschedule, as indicated below. These quizzes may be taken remotely any time during a 24-hour period,",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -136,7 +526,7 @@
   },
   {
     "id": "syllabus_cap4053_grading_policy_1",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 2) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nCommunication Expectations\nMessage me on Discord or catch me in class. I recommend using @Instructor on Discord rather than\n@Prof. Mell for a faster response. Responses are normally within minutes to hours, but please allow up to\na day.\nPolicies for Course Grade\nMakeup Work Policy/Missed/Late Assignments\nPer university policy, you are allowed to submit make-up work (or an equivalent, alternate assignment) for\nauthorized university-sponsored activities, religious observances, or legal obligations (such as jury duty).\nIf this participation conflicts with your course assignments, I will offer a reasonable opportunity for you to\ncomplete missed assignments. The make-up assignment and grading scale will be equivalent to the\nmissed assignment and its grading scale. In the case of an authorized university activity, it is your\nresponsibility to show me a signed copy of the Program Verification Form for which you will be\nabsent, prior to the class in which the absence occurs. In any of these cases, please contact me ahead\nof time to notify me of upcoming needs. Missing without advanced notice is handled on a case-by-\ncase basis, but may result in zero credit!\nAttendance\nI will not generally be taking attendance as part of your grade, except the assignment work days, during\nwhich part of your grade counts toward assignments. Additionally, there will be required quizzes on the\nschedule, as indicated below. These quizzes may be taken remotely any time during a 24-hour period,\nand cannot be made up after the fact. There will be at least one 1-hour block during which TAs/graders\nwill be available over Discord for assistance and questions. Reasonable consideration will be given to",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 2) | and cannot be made up after the fact. There will be at least one 1-hour block during which TAs/graders\nwill be available over Discord for assistance and questions. Reasonable consideration will be given to\ncircumstances of illness or personal emergency, when stated before the quiz. Forgetfulness is not a\npersonal emergency.\nSome lectures featuring guest lecturers will be conducted over Zoom. We also have a Zoom link for\nsituations when I cannot be in class (e.g. due to illness or travel). While I will make the slide decks\navailable after class, I will generally NOT make recordings available of the lectures. I do not \"read from\nthe slides\" so this means if you don't attend class, you will miss a good section of the course. I make no\nguarantees that all quiz material will be on the slides themselves; I will make assurances that I will cover\nsuch material in class.\nMake-up Assignments for Authorized University Event or Co-curricular\nActivities\nStudents who represent the university an an authorized event or activity (for example, student athletes)\nand who are unable to meet a course deadline due to a conflict with that event must provide the\ninstructor with documentation in advance to arrange a make-up. No penalty will be applied if the student\ngives advance notice and communicates with the instructor following UCF policy. In the case of an\nauthorized university activity, it is your responsibility to show the instructor a signed copy of the Program\nVerification Form for which you will be absent, prior to the class in which the absence occurs or due date\nyou need extended. For more information, see UCF Policy 4-401.\nMake-up Assignments for Religious Observances\nA student who desires to observe a religious holy day of his or her religious faith must notify their",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -151,7 +541,7 @@
   },
   {
     "id": "syllabus_cap4053_grading_policy_2",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 3) | circumstances of illness or personal emergency, when stated before the quiz. Forgetfulness is not a\npersonal emergency.\nSome lectures featuring guest lecturers will be conducted over Zoom. We also have a Zoom link for\nsituations when I cannot be in class (e.g. due to illness or travel). While I will make the slide decks\navailable after class, I will generally NOT make recordings available of the lectures. I do not \"read from\nthe slides\" so this means if you don't attend class, you will miss a good section of the course. I make no\nguarantees that all quiz material will be on the slides themselves; I will make assurances that I will cover\nsuch material in class.\nMake-up Assignments for Authorized University Event or Co-curricular\nActivities\nStudents who represent the university an an authorized event or activity (for example, student athletes)\nand who are unable to meet a course deadline due to a conflict with that event must provide the\ninstructor with documentation in advance to arrange a make-up. No penalty will be applied if the student\ngives advance notice and communicates with the instructor following UCF policy. In the case of an\nauthorized university activity, it is your responsibility to show the instructor a signed copy of the Program\nVerification Form for which you will be absent, prior to the class in which the absence occurs or due date\nyou need extended. For more information, see UCF Policy 4-401.\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 7/12",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 3) | instructor as soon as practicable prior to the observance. Students who are absent because of religious\nobservances will be permitted a reasonable amount of time to complete any missed work. For more\ninformation, see UCF Regulation 5-020.\nArtificial Intelligence (AI) Use Policy\nUse of Generative AI (GenAI) is freely permitted but must be disclosed. Students are allowed to use\nGenerative Artificial Intelligence (GenAI) tools on assignments if the usage is properly disclosed and\ncredited. For example, text generated from Copilot should include a citation such as: \"Copilot. Accessed\n2023-12-03. Prompt: 'Summarize the Geneva Convention in 50 words.' Generated using Copilot.\" Any\nattempt to represent GenAI output inappropriately as your own work will be treated as plagiarism.\nUltimately, students are responsible for the accuracy and veracity of submitted work whether AI-\ngenerated or not.\nAI, LLMs, and GPT-X\nI love AI. This is an AI course. If you choose to use stable diffusion, large language models, or other AI\ntechniques to create voice clones, write adaptive narrative or dialogue, or create art for your game,\nplease do so! I ask that you merely cite that you have done so. Do not pass off such work as your own;\nyou will miss out on the credit I will give you for having utilized modern tools for modern solutions.\nCopyright and IP\nProfessor's Copyright:\nThis course may contain copyright protected materials such as audio or video clips, images, text\nmaterials, etc. These items are being used with regard to the Fair Use doctrine in order to enhance the\nlearning environment. Please do not copy, duplicate, download or distribute these items. The use of\nthese materials is strictly reserved for this online classroom environment and your use only. All copyright",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -166,7 +556,7 @@
   },
   {
     "id": "syllabus_cap4053_grading_policy_3",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 4) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nMake-up Assignments for Religious Observances\nA student who desires to observe a religious holy day of his or her religious faith must notify their\ninstructor as soon as practicable prior to the observance. Students who are absent because of religious\nobservances will be permitted a reasonable amount of time to complete any missed work. For more\ninformation, see UCF Regulation 5-020.\nArtificial Intelligence (AI) Use Policy\nUse of Generative AI (GenAI) is freely permitted but must be disclosed. Students are allowed to use\nGenerative Artificial Intelligence (GenAI) tools on assignments if the usage is properly disclosed and\ncredited. For example, text generated from Copilot should include a citation such as: \"Copilot. Accessed\n2023-12-03. Prompt: 'Summarize the Geneva Convention in 50 words.' Generated using Copilot.\" Any\nattempt to represent GenAI output inappropriately as your own work will be treated as plagiarism.\nUltimately, students are responsible for the accuracy and veracity of submitted work whether AI-\ngenerated or not.\nAI, LLMs, and GPT-X\nI love AI. This is an AI course. If you choose to use stable diffusion, large language models, or other AI\ntechniques to create voice clones, write adaptive narrative or dialogue, or create art for your game,\nplease do so! I ask that you merely cite that you have done so. Do not pass off such work as your own;\nyou will miss out on the credit I will give you for having utilized modern tools for modern solutions.\nCopyright and IP\nProfessor's Copyright:\nThis course may contain copyright protected materials such as audio or video clips, images, text\nmaterials, etc. These items are being used with regard to the Fair Use doctrine in order to enhance the",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 4) | materials are credited to the copyright holder, either me, Dr. Mell, or the other relevant holder.\nStudents' Copyright:\nYour games that you create are your own copyright. You should consult with a legal expert to fully explain\nwhat this means, but generally, it means you can use your games in portfolios and other items, including\ncommercial use. If you use 3rd-party materials in your game (e.g., music or art), you are still subject to\nthose terms, and the terms of any game engine you may use. I reserve the right to use clips of your\ngames in future classes for educational and promotional purposes. I additionally reserve the right to make\navailable a copy of your game binary (executable) on my website for archival purposes and to\ndemonstrate the class. Source code, while you will be required to submit it, will not be made publicly\navailable. If you would prefer your final game to not be hosted publicly, or you'd instead like to provide a\nlive link to your own site (e.g., Itch.io), please contact me directly.\nIllness and Class\nCOVID/Illness Special Note from Dr. Mell\nCOVID-19 has changed the way public health is handled worldwide, indefinitely.\nUCF's official policy has been that you are expected to be up to date and boosted with COVID-19\nvaccine if you are able, and to otherwise follow CDC guidance.\nTo be considerate of the health and time of others, I do not offer regular in-person office hours. Largely,\nthis has not been a problem--I am normally available on Discord very readily with fast response times.\nHowever, if you believe you need an exception, please reach out to me and we can discuss.\nI am trying to make this class as interactive as possible while still respecting student's individual needs.",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -181,7 +571,7 @@
   },
   {
     "id": "syllabus_cap4053_grading_policy_4",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 5) | learning environment. Please do not copy, duplicate, download or distribute these items. The use of\nthese materials is strictly reserved for this online classroom environment and your use only. All copyright\nmaterials are credited to the copyright holder, either me, Dr. Mell, or the other relevant holder.\nStudents' Copyright:\nYour games that you create are your own copyright. You should consult with a legal expert to fully explain\nwhat this means, but generally, it means you can use your games in portfolios and other items, including\ncommercial use. If you use 3rd-party materials in your game (e.g., music or art), you are still subject to\nthose terms, and the terms of any game engine you may use. I reserve the right to use clips of your\ngames in future classes for educational and promotional purposes. I additionally reserve the right to make\navailable a copy of your game binary (executable) on my website for archival purposes and to\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 8/12",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 5) | That is why I have chosen not require attendance beyond the major points of the class. I hope you\nchoose to safely engage as much as possible in spite of this, and I will work with you to find good\noptions with regard to your health and safety.\nIf you are ill, do not come to class. If you have a presentation, please notify me before class and we will\noffer alternatives as appropriate.\nRecording\nDr. Mell's summary: don't give away recordings without my permission\nStudents may, without prior notice, record video or audio of a class lecture for a class in which the\nstudent is enrolled for their own personal educational use. A class lecture is defined as a formal or\nmethodical oral presentation as part of a university course intended to present information or teach\nstudents about a particular subject. Recording classroom activities other than class lectures, including\nbut not limited to lab sessions, student presentations (whether individually or part of a group), class\ndiscussion (except when incidental to and incorporated within a class lecture), clinical presentations such\nas patient history, academic exercises involving student participation, test or examination\nadministrations, field trips, and private conversations is prohibited. Recordings may not be used as a\nsubstitute for class participation and class attendance, and may not be published or shared without the\nwritten consent of the faculty member. Failure to adhere to these requirements may constitute a violation\nof the University’s Student Code of Conduct as described in the Golden Rule .\nThird-Party Tools\nUnity Game Engine Privacy Statement\nYou may install Unity, and have access to the pro version, by simply signing up on the Unity website with\nyour UCF.edu email address (you will receive a student version).",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -196,7 +586,7 @@
   },
   {
     "id": "syllabus_cap4053_grading_policy_5",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 6) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\ndemonstrate the class. Source code, while you will be required to submit it, will not be made publicly\navailable. If you would prefer your final game to not be hosted publicly, or you'd instead like to provide a\nlive link to your own site (e.g., Itch.io), please contact me directly.\nIllness and Class\nCOVID/Illness Special Note from Dr. Mell\nCOVID-19 has changed the way public health is handled worldwide, indefinitely.\nUCF's official policy has been that you are expected to be up to date and boosted with COVID-19\nvaccine if you are able, and to otherwise follow CDC guidance.\nTo be considerate of the health and time of others, I do not offer regular in-person office hours. Largely,\nthis has not been a problem--I am normally available on Discord very readily with fast response times.\nHowever, if you believe you need an exception, please reach out to me and we can discuss.\nI am trying to make this class as interactive as possible while still respecting student's individual needs.\nThat is why I have chosen not require attendance beyond the major points of the class. I hope you\nchoose to safely engage as much as possible in spite of this, and I will work with you to find good\noptions with regard to your health and safety.\nIf you are ill, do not come to class. If you have a presentation, please notify me before class and we will\noffer alternatives as appropriate.\nRecording\nDr. Mell's summary: don't give away recordings without my permission\nStudents may, without prior notice, record video or audio of a class lecture for a class in which the\nstudent is enrolled for their own personal educational use. A class lecture is defined as a formal or",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 6) | Students have also used Unreal Engine and Godot Engine in the past, successfully. However, I don't\nofficially \"support\" them for this course.\nThird-Party Software and FERPA\nDuring this course you might have the opportunity to use public online services and/or software\napplications sometimes called third-party software such as a blog or wiki. While some of these could be\nrequired assignments, you need not make any personally identifying information on a public site. Do not\npost or provide any private information about yourself or your classmates. Where appropriate you may\nuse a pseudonym or nickname. Some written assignments posted publicly may require personal\nreflection/comments, but the assignments will not require you to disclose any personally identity-\nsensitive information. If you have any concerns about this, please contact your instructor.\nDisability Access & Accommodations\nThe University of Central Florida is committed to providing equal access to all students with disabilities\n(ADHD, learning disabilities, Autism, chronic medical conditions, physical disabilities, etc.). To receive\nconsideration for reasonable disability-related course accommodations, disabled students must contact\nStudent Accessibility Services (SAS) and complete the steps required for SAS to review accommodation\nrequests. More information can be found on the UCF Student Accessibility Services website under the\nStart Here tab or by contacting SAS directly (Ferrell Commons 185; sas@ucf.edu; Phone - 407-823-\n2371).\nApproved accommodations are shared with course instructors via the SAS Course Accessibility Letter.\nImplementing certain accommodations may require discussion and specific considerations of the course",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -211,37 +601,7 @@
   },
   {
     "id": "syllabus_cap4053_grading_policy_6",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 7) | methodical oral presentation as part of a university course intended to present information or teach\nstudents about a particular subject. Recording classroom activities other than class lectures, including\nbut not limited to lab sessions, student presentations (whether individually or part of a group), class\ndiscussion (except when incidental to and incorporated within a class lecture), clinical presentations such\nas patient history, academic exercises involving student participation, test or examination\nadministrations, field trips, and private conversations is prohibited. Recordings may not be used as a\nsubstitute for class participation and class attendance, and may not be published or shared without the\nwritten consent of the faculty member. Failure to adhere to these requirements may constitute a violation\nof the University’s Student Code of Conduct as described in the Golden Rule .\nThird-Party Tools\nUnity Game Engine Privacy Statement\nYou may install Unity, and have access to the pro version, by simply signing up on the Unity website with\nyour UCF.edu email address (you will receive a student version).\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 9/12",
-    "source": "Syllabus - CAP4053 (Summer 2026)",
-    "source_type": "syllabus",
-    "metadata": {
-      "review_type": "syllabus",
-      "course_code": "CAP4053",
-      "original_course_code": "CAP4053",
-      "instructor": "Johnathan Mell",
-      "term": "Summer 2026",
-      "section_name": "Grading Policy",
-      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
-    }
-  },
-  {
-    "id": "syllabus_cap4053_grading_policy_7",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 8) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nStudents have also used Unreal Engine and Godot Engine in the past, successfully. However, I don't\nofficially \"support\" them for this course.\nThird-Party Software and FERPA\nDuring this course you might have the opportunity to use public online services and/or software\napplications sometimes called third-party software such as a blog or wiki. While some of these could be\nrequired assignments, you need not make any personally identifying information on a public site. Do not\npost or provide any private information about yourself or your classmates. Where appropriate you may\nuse a pseudonym or nickname. Some written assignments posted publicly may require personal\nreflection/comments, but the assignments will not require you to disclose any personally identity-\nsensitive information. If you have any concerns about this, please contact your instructor.\nDisability Access & Accommodations\nThe University of Central Florida is committed to providing equal access to all students with disabilities\n(ADHD, learning disabilities, Autism, chronic medical conditions, physical disabilities, etc.). To receive\nconsideration for reasonable disability-related course accommodations, disabled students must contact\nStudent Accessibility Services (SAS) and complete the steps required for SAS to review accommodation\nrequests. More information can be found on the UCF Student Accessibility Services website under the\nStart Here tab or by contacting SAS directly (Ferrell Commons 185; sas@ucf.edu; Phone - 407-823-\n2371).\nApproved accommodations are shared with course instructors via the SAS Course Accessibility Letter.\nImplementing certain accommodations may require discussion and specific considerations of the course",
-    "source": "Syllabus - CAP4053 (Summer 2026)",
-    "source_type": "syllabus",
-    "metadata": {
-      "review_type": "syllabus",
-      "course_code": "CAP4053",
-      "original_course_code": "CAP4053",
-      "instructor": "Johnathan Mell",
-      "term": "Summer 2026",
-      "section_name": "Grading Policy",
-      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
-    }
-  },
-  {
-    "id": "syllabus_cap4053_grading_policy_8",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 9) | design, course learning objectives, and the individual academic and course challenges experienced by\nthe student. While students with disabilities or chronic health needs are also encouraged to discuss any\ncourse concerns with professors in addition to contacting SAS, professors are not required to facilitate\ndisability-related adjustments to the course unless the professor has received a Course Accessibility\nLetter from SAS that outlines approved accommodations.\nNotice\nNote: Everything below this point is UCF policy, and was not specified by the instructor. Please refer to\nmy specific academic integrity notes above, which override some of the boilerplate.",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Grading Policy (Part 7) | design, course learning objectives, and the individual academic and course challenges experienced by\nthe student. While students with disabilities or chronic health needs are also encouraged to discuss any\ncourse concerns with professors in addition to contacting SAS, professors are not required to facilitate\ndisability-related adjustments to the course unless the professor has received a Course Accessibility\nLetter from SAS that outlines approved accommodations.\nNotice\nNote: Everything below this point is UCF policy, and was not specified by the instructor. Please refer to\nmy specific academic integrity notes above, which override some of the boilerplate.",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -256,7 +616,7 @@
   },
   {
     "id": "syllabus_cap4053_academic_integrity_0",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 1) | Students should familiarize themselves with UCF’s Code of Conduct at Student Conduct and Integrity\nOffice. According to Section 1, “Academic Misconduct,” students are prohibited from engaging in:\na. Academic misconduct is defined as any submitted work or behavior that obstructs the instructor of\nrecord's ability to accurately assess the student's understanding or completion of the course\nmaterials or degree requirements (e.g., assignment, quiz, and/or exam). Examples of academic\nmisconduct include but are not limited to: plagiarism, unauthorized assistance to complete an\nacademic exercise; unauthorized communication with others during an examination, course\nassignment, or project; falsifying or misrepresenting academic work; providing misleading\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 10/12",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 1) | Students should familiarize themselves with UCF’s Code of Conduct at Student Conduct and Integrity\nOffice. According to Section 1, “Academic Misconduct,” students are prohibited from engaging in:\na. Academic misconduct is defined as any submitted work or behavior that obstructs the instructor of\nrecord's ability to accurately assess the student's understanding or completion of the course\nmaterials or degree requirements (e.g., assignment, quiz, and/or exam). Examples of academic\nmisconduct include but are not limited to: plagiarism, unauthorized assistance to complete an\nacademic exercise; unauthorized communication with others during an examination, course\nassignment, or project; falsifying or misrepresenting academic work; providing misleading\ninformation to create a personal advantage to complete course/degree requirements; or multiple\nsubmission(s) of academic work without permission of the instructor of record.\nb. Any student who knowingly helps another violate academic behavior standards is also in violation of\nthe standards.\nc. Commercial Use of Academic Material. Selling of course material to another person and/or\nuploading course material to a third-party vendor without authorization or without the express written\npermission of the University and the instructor of record. Course materials include but are not limited\nto class notes, the instructor of record's slide deck, tests, quizzes, labs, instruction sheets,\nhomework, study guides, and handouts.\nd. Soliciting assistance with academic coursework and/or degree requirements. The solicitation of\nassistance with an assignment, lab, quiz, test, paper, etc., without authorization of the instructor of\nrecord or designee is prohibited. This includes but is not limited to asking for answers to a quiz,",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -271,7 +631,7 @@
   },
   {
     "id": "syllabus_cap4053_academic_integrity_1",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 2) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\ninformation to create a personal advantage to complete course/degree requirements; or multiple\nsubmission(s) of academic work without permission of the instructor of record.\nb. Any student who knowingly helps another violate academic behavior standards is also in violation of\nthe standards.\nc. Commercial Use of Academic Material. Selling of course material to another person and/or\nuploading course material to a third-party vendor without authorization or without the express written\npermission of the University and the instructor of record. Course materials include but are not limited\nto class notes, the instructor of record's slide deck, tests, quizzes, labs, instruction sheets,\nhomework, study guides, and handouts.\nd. Soliciting assistance with academic coursework and/or degree requirements. The solicitation of\nassistance with an assignment, lab, quiz, test, paper, etc., without authorization of the instructor of\nrecord or designee is prohibited. This includes but is not limited to asking for answers to a quiz,\ntrading answers, or offering to pay another to complete an assignment. It is considered Academic\nMisconduct to solicit assistance with academic coursework and/or degree requirements, even if the\nsolicitation did not yield actual assistance (for example, if there was no response to the solicitation).\nResponses to Academic Dishonesty, Plagiarism, or Cheating\nStudents should also familiarize themselves with the procedures for academic misconduct in UCF’s\nstudent handbook, The Golden Rule. UCF faculty members have a responsibility for students’ education\nand the value of a UCF degree, and so seek to prevent unethical behavior and respond to academic",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 2) | trading answers, or offering to pay another to complete an assignment. It is considered Academic\nMisconduct to solicit assistance with academic coursework and/or degree requirements, even if the\nsolicitation did not yield actual assistance (for example, if there was no response to the solicitation).\nResponses to Academic Dishonesty, Plagiarism, or Cheating\nStudents should also familiarize themselves with the procedures for academic misconduct in UCF’s\nstudent handbook, The Golden Rule. UCF faculty members have a responsibility for students’ education\nand the value of a UCF degree, and so seek to prevent unethical behavior and respond to academic\nmisconduct when necessary. Penalties for violating rules, policies, and instructions within this course can\nrange from a zero on the exercise to an “F” letter grade in the course. In addition, an Academic\nMisconduct report could be filed with the Office of Student Conduct and Academic Integrity, which could\nlead to disciplinary warning, disciplinary probation, or deferred suspension or separation from the\nUniversity through suspension, dismissal, or expulsion with the addition of a “Z” designation on one’s\ntranscript.\nBeing found in violation of academic conduct standards could result in a student having to disclose such\nbehavior on a graduate school application, being removed from a leadership position within a student\norganization, the recipient of scholarships, participation in University activities such as study abroad,\ninternships, etc.\nTitle IX\nTitle IX prohibits sex discrimination, including sexual misconduct, sexual violence, sexual harassment,\nand retaliation. If you or someone you know has been harassed or assaulted, you can find resources",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -286,7 +646,7 @@
   },
   {
     "id": "syllabus_cap4053_academic_integrity_2",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 3) | misconduct when necessary. Penalties for violating rules, policies, and instructions within this course can\nrange from a zero on the exercise to an “F” letter grade in the course. In addition, an Academic\nMisconduct report could be filed with the Office of Student Conduct and Academic Integrity, which could\nlead to disciplinary warning, disciplinary probation, or deferred suspension or separation from the\nUniversity through suspension, dismissal, or expulsion with the addition of a “Z” designation on one’s\ntranscript.\nBeing found in violation of academic conduct standards could result in a student having to disclose such\nbehavior on a graduate school application, being removed from a leadership position within a student\norganization, the recipient of scholarships, participation in University activities such as study abroad,\ninternships, etc.\nTitle IX\nTitle IX prohibits sex discrimination, including sexual misconduct, sexual violence, sexual harassment,\nand retaliation. If you or someone you know has been harassed or assaulted, you can find resources\navailable to support the victim, including confidential resources and information concerning reporting\noptions at Let's Be Clear and UCF Cares.\nFor more information on access and community engagement, Title IX, accessibility, or UCF's complaint\nprocesses contact:\nTitle IX – ONAC – Office of Nondiscrimination & Accommodations Compliance &\naskanadvocate@ucf.edu\nDisability Accommodation – Student Accessibility Services – Student Accessibility Services &\nsas@ucf.edu\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 11/12",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 3) | available to support the victim, including confidential resources and information concerning reporting\noptions at Let's Be Clear and UCF Cares.\nFor more information on access and community engagement, Title IX, accessibility, or UCF's complaint\nprocesses contact:\nTitle IX – ONAC – Office of Nondiscrimination & Accommodations Compliance &\naskanadvocate@ucf.edu\nDisability Accommodation – Student Accessibility Services – Student Accessibility Services &\nsas@ucf.edu\nAccess and Community Engagement (including the Ginsberg Center for Inclusion and Community\nEngagement, Military and Veteran Student Success, and HSI Initiatives)\nUCF Compliance and Ethics Office – Compliance, Ethics, and Risk Office &\ncomplianceandethics@ucf.edu\nThe Ombuds Office is a safe place to discuss concerns.\nReporting an Incident or Issue\nIf you believe you have experienced discrimination by any faculty or staff member, contact the Office of\nNondiscrimination & Accommodations Compliance via the ONAC website or at 407-823-1336. You can also choose\nto report using the UCF Integrity Line either anonymously or as yourself at 1-855-877-6049 or by using the online\nform. UCF cares about you and takes every report seriously. For more information see the Reporting an Incident or\nIssue Webpage.\nDeployed Active-Duty Military Students\nStudents who are deployed active duty military and/or National Guard personnel and require\naccommodation should contact their instructors as soon as possible after the semester begins and/or\nafter they receive notification of deployment to make related arrangements.\nCampus Safety\nAt UCF Public Safety and Police, safety is the top priority. Emergencies on campus are rare, but if one\nshould arise, it's important to be familiar with some basic safety and security concepts.",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -301,7 +661,7 @@
   },
   {
     "id": "syllabus_cap4053_academic_integrity_3",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 4) | 6/10/26, 4:54 PM CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus\nAccess and Community Engagement (including the Ginsberg Center for Inclusion and Community\nEngagement, Military and Veteran Student Success, and HSI Initiatives)\nUCF Compliance and Ethics Office – Compliance, Ethics, and Risk Office &\ncomplianceandethics@ucf.edu\nThe Ombuds Office is a safe place to discuss concerns.\nReporting an Incident or Issue\nIf you believe you have experienced discrimination by any faculty or staff member, contact the Office of\nNondiscrimination & Accommodations Compliance via the ONAC website or at 407-823-1336. You can also choose\nto report using the UCF Integrity Line either anonymously or as yourself at 1-855-877-6049 or by using the online\nform. UCF cares about you and takes every report seriously. For more information see the Reporting an Incident or\nIssue Webpage.\nDeployed Active-Duty Military Students\nStudents who are deployed active duty military and/or National Guard personnel and require\naccommodation should contact their instructors as soon as possible after the semester begins and/or\nafter they receive notification of deployment to make related arrangements.\nCampus Safety\nAt UCF Public Safety and Police, safety is the top priority. Emergencies on campus are rare, but if one\nshould arise, it's important to be familiar with some basic safety and security concepts.\nIn an emergency, always dial 911.\nEvery UCF classroom has an Emergency Procedure Guide posted on a wall near the door, which\nwill show you how to respond to a variety of situations. This guide can also be found online here.\nIn the event of an active threat, remember AVOID, DENY, DEFEND. Choose the best course of\naction and act immediately. Watch the video here to learn more.",
+    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 4) | In an emergency, always dial 911.\nEvery UCF classroom has an Emergency Procedure Guide posted on a wall near the door, which\nwill show you how to respond to a variety of situations. This guide can also be found online here.\nIn the event of an active threat, remember AVOID, DENY, DEFEND. Choose the best course of\naction and act immediately. Watch the video here to learn more.\nAVOID. Pay attention to your surroundings and have an exit plan. Get as much distance and\nas many barriers between you and the threat as quickly as possible.\nDENY. When avoiding is difficult or impossible, deny the threat access to you and your space.\nLockdown by creating barriers, turning the lights off and remaining quiet and out of sight.\nMake sure your cell phone is silenced, but do not turn it off.\nDEFEND. When you are unable to put distance between yourself and the threat, be prepared\nto protect yourself. Commit to your actions, be aggressive and do not fight fairly. Do whatever\nit takes to survive.\nFor emergencies on campus, UCF will utilize the UCF Alert system. All UCF students, faculty and\nstaff are automatically enrolled to receive these email and text alerts, however, it's a good idea to\nfrequently ensure your contact information is up to date.\nFinancial Aid Accountability\nAll instructors/faculty are required to document students’ academic activity at the beginning of each\ncourse. In order to document that you began this course, please complete this activity by the end of the\nfirst week of classes or as soon as possible after adding the course. Failure to do so may result in a delay\nin the disbursement of your financial aid.",
     "source": "Syllabus - CAP4053 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
@@ -315,18 +675,378 @@
     }
   },
   {
-    "id": "syllabus_cap4053_academic_integrity_4",
-    "text": "Course: CAP4053 | Instructor: Johnathan Mell | Section: Academic Integrity (Part 5) | AVOID. Pay attention to your surroundings and have an exit plan. Get as much distance and\nas many barriers between you and the threat as quickly as possible.\nDENY. When avoiding is difficult or impossible, deny the threat access to you and your space.\nLockdown by creating barriers, turning the lights off and remaining quiet and out of sight.\nMake sure your cell phone is silenced, but do not turn it off.\nDEFEND. When you are unable to put distance between yourself and the threat, be prepared\nto protect yourself. Commit to your actions, be aggressive and do not fight fairly. Do whatever\nit takes to survive.\nFor emergencies on campus, UCF will utilize the UCF Alert system. All UCF students, faculty and\nstaff are automatically enrolled to receive these email and text alerts, however, it's a good idea to\nfrequently ensure your contact information is up to date.\nFinancial Aid Accountability\nAll instructors/faculty are required to document students’ academic activity at the beginning of each\ncourse. In order to document that you began this course, please complete this activity by the end of the\nfirst week of classes or as soon as possible after adding the course. Failure to do so may result in a delay\nin the disbursement of your financial aid.\nhttps://ucf.simplesyllabus.com/en-US/doc/lylqdy4th/Summer-2026-CAP-4053-B001-AI-FOR-GAME-PROGRAMMING?mode=view 12/12",
-    "source": "Syllabus - CAP4053 (Summer 2026)",
+    "id": "syllabus_cap4611_course_overview_0",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Course Overview | CAP 4611 - ALG. FOR\nMACHINE LEARNING\nSection: C001\nCollege of Engineering and\nComputer Science\nDepartment of Computer Science\nCourse Information\nTerm: Summer 2026\nClass Meeting Days: TR\nClass Meeting Time: 12:00PM - 01:50PM\nClass Meeting Location: CB2 O101\nModality: P\nCredit Hours: 3.00",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
     "source_type": "syllabus",
     "metadata": {
       "review_type": "syllabus",
-      "course_code": "CAP4053",
-      "original_course_code": "CAP4053",
-      "instructor": "Johnathan Mell",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Course Overview",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_contact_information_0",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Contact Information | Tanvir Ahmed\nTitle: Associate Lecturer\nOffice Location: HEC 219",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_contact_information_1",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Contact Information (Part 1) | Monday 12:30 pm - 2:30 pm (Zoom)\nWed 12:30 pm - 2:30 pm (Zoom)\n(Check the first module on Webcourses for my Zoom\nlink)\nPhone: 4078235043\nEmail: Tanvir.Ahmed@ucf.edu\nCommunication Expectations\nImportant Email and Communication Policy\nI have three large classes this semester, so please follow the communication\nand email policy below to help ensure effective communication. As noted\nbelow, if you do not receive a response from me by email, please visit me\nduring office hours.\nImportant Email Policy (Please, do not send Webcourses messages)\nPlease read and follow the communication guidelines below when contacting me or the\nTAs.\n1. Use your UCF email account for all communication.\nDo NOT send messages through Webcourses.\n2. If you are following up on a previous email, always use the same email thread.\n3. In the subject line of every email, include:\nthe course name,\nsection number, and\na brief description of the topic.\nSince I teach multiple courses and sections, this helps us respond more\nefficiently.\n4. Emails should be reserved for administrative inquiries only and should remain\nbrief, professional, and friendly.\n5. Questions about course content should be discussed during office hours, where we\ncan have a more effective and interactive discussion. We may not help with\ndebugging your code in email.\n6. My direct email address should only be used for matters that are:\nnot relevant to the TAs, or\nintended to remain private from the TAs.\nExamples include illness, family emergencies, SAS accommodations, or\nprivate discussions regarding course performance.\n7. I generally respond to emails within 48 hours(excluding weekends). If you do not\nreceive a response within that timeframe:\nreply to the same email thread as a follow-up, or",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_contact_information_2",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Contact Information (Part 2) | Visit me during office hours or the Zoom office hour meeting.\n8. Due to the large volume of emails in this course, occasional missed emails can\nhappen. In urgent situations, please follow up using the same email thread.\nContacting the TAs\nIn general, do not request assignment-related help through email. We offer many office\nhours specifically for assignment assistance.\nFor grading inquiries, please follow the grading inquiry process described later in this\nsyllabus.\nFor general questions, or if you are unsure which TA to contact:\nsend the email to all TAs assigned to your section,\nplace the TA email addresses in the “To” field, and\nplace the instructor email address in the “CC” field.\nThe TA responsible for your question will respond to you.\nAs always, remember to include the course name, section number, and topic in the email\nsubject line.",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_course_description_0",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Course Description (Part 1) | CAP 4611 ENGR-COMP SCI 3(3,0)Algorithms for Machine Learning: PR: Earn a\nminimum grade of C in each of the following:COP3502C - Computer Science I\n(3)STA2023 - Statistical Methods I (3) An overview of the most commonly used\nalgorithms for supervised, unsupervised, and reinforcement learning.\nIntroduction toexperimental design, evaluation metrics, and applications of\nmachine learning.\nThis course introduces the fundamental algorithms and techniques used in\nmachine learning, with an emphasis on experimental setup, how models learn\nfrom data, and optimization methods. Topics include exploratory data analysis,\nmodel training and evaluation, and the practical implementation of machine\nlearning algorithms using Python and scikit-learn. Students will study supervised\nand unsupervised learning methods such as linear and logistic regression,\ndecision trees, Naive Bayes, support vector machines, k-nearest neighbors,\nclustering, ensemble methods, association rule learning, and selected natural\nlanguage processing techniques. The course also provides an introductory\ntreatment of neural networks and convolutional neural networks, with hands-on\nexposure using modern frameworks such as Keras.\nStudent Learning Outcomes\nUpon successful completion of this course, students will be able to:\n1. Explain the fundamental principles of machine learning, including\nsupervised and unsupervised learning paradigms.\n2. Apply optimization techniques to train machine learning models and\nanalyze their convergence behavior.\n3. Implement core machine learning algorithms (e.g., regression, decision\ntrees, SVM, k-NN, clustering, ensemble methods) using Python and scikit-\nlearn.\n4. Perform exploratory data analysis and data preprocessing to prepare\nreal-world datasets for machine learning tasks.",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_course_description_1",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Course Description (Part 2) | 5. Design and evaluate experimental setups, including proper data splitting,\ncross-validation, and performance metrics.\n6. Analyze and compare machine learning models using appropriate\nevaluation measures and justify algorithm selection.\n7. Apply machine learning techniques to selected application domains such\nas text data (basic NLP) and association rule learning.\n8. Demonstrate foundational understanding of neural networks and\nconvolutional neural networks using high-level frameworks such as Keras.\n9. Communicate machine learning results effectively through written reports\nand visualizations.\nRequired Course Materials and Resources\nHands-On Machine Learning with Scikit-Learn,\nKeras, and TensorFlow\nISBN: 9781098122461\nAuthors: Aurélien Géron\nPublisher: \"O'Reilly Media, Inc.\"\nPublication Date: 2022-10-04\nNotes and addtional resources will be avaiable on webcourses\nOther important tools and materials\nData camp\nTo help everyone get up to speed with the coding side of machine learning, I\nhave secured access to DataCamp for the semester. Everyone should be able\nto join using their ucf.edu email address. To ensure access, do not create an\naccount prior to clicking the join link.\nThe link is available on webcourses module\nDataCamp lessons supplement the textbook readings and will be a required\ncomponent of this course in the first 3 weeks. [Expect to spend 15+ hours per\nweek for the first two weeks on Datacamp Python and data analysis library\ncourses]. I have also linked various data camp courses that you can do for more\nlearning. However, those extra courses are optional\nAdditional Resources\nIn addition to the DataCamp material, the following content on python, pandas,\nscikit-learn, and tensorflow will be critical to your success in this course:",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_course_description_2",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Course Description (Part 3) | https://www.kaggle.com/learn/python\nhttps://www.kaggle.com/learn/pandas\nhttps://docs.python.org/3/tutorial/index.html\nhttps://docs.python.org/3/reference/index.html\nhttps://docs.python.org/3/library/index.html\nhttps://pandas.pydata.org/pandas-docs/stable/getting_started/index.html\nhttps://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html\nhttps://pandas.pydata.org/pandas-docs/stable/user_guide/index.html\nhttps://scikit-learn.org/stable/getting_started.html\nhttps://scikit-learn.org/stable/tutorial/index.html\nhttps://scikit-learn.org/stable/user_guide.html\nhttps://www.tensorflow.org/tutorials\nRelated Courses\nMachine Learning and Data Mining (UBC)\nIntroduction to Machine Learning (Alberta)\nPractical Machine Learning (Berkeley)\nMachine Learning (MIT)\nMachine Learning (CMU)\nCourse in Machine Learning (Maryland)\nData Mining (CMU)\nFor the necessary mathematical background, Khan Academy and MIT have a\nnumber of useful courses:\nhttps://www.khanacademy.org/math/differential-calculus\nhttps://www.khanacademy.org/math/integral-calculus\nhttps://www.khanacademy.org/math/calculus-1\nhttps://www.khanacademy.org/math/calculus-2\nhttps://www.khanacademy.org/math/multivariable-calculus\nhttps://www.khanacademy.org/math/statistics-probability\nhttps://www.khanacademy.org/math/linear-algebra\nhttps://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-\nfall-2010/\nhttps://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-\nfall-2010/\nhttps://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/\nhttps://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-\nanalysis-signal-processing-and-machine-learning-spring-2018/\nhttps://ocw.mit.edu/courses/electrical-engineering-and-computer-",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_course_description_3",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Course Description (Part 4) | science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-\n2013/\nRecommended Course Materials\nTitle: Principles of Data Mining\nISBN: 9781846287657\nAuthors: Max Bramer\nPublisher: Springer\nPublication Date: 2007-03-28\nAdditional Information: Some notes will also refer this\nbook\nCourse Assessment and Grading Procedure\nThe tentative point distribution will be as follows. Depending on the course flow and\nthe situation, the course instructor may change the weights for future items. Any changes\nwill be announced on webcourses or in the class:",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Course Description",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_grading_policy_0",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Grading Policy | Syllabus quiz 0.5%\nProgramming and ML Assignments Jupyter 55%\nNotebooks\nIn Person Quizzes (best 3 out of 4) - must 9% [3 for each]\nbring a laptop\nPractice topic-wise exercise quizzes online 4%\nDatacamp course completion certificates for the 4.5%\nassigned courses for learning Python related to\ndata science operations\nIn Class Midterm exam (must bring a latptop) 12%\nIn Class Final Exam (must bring a laptop) 15%\nTotal 100%\nFinal Exam Policy: You must attend the final exam and\nearn at least 35% on it to be eligible for a grade of C or\nhigher in the course. This means that even if your overall\ncourse grade is above 66%, you will not receive a C if you\nscore less than 35% on the final exam.",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_grading_policy_1",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 1) | Letter Grade Percentage\nA 100% - 90%\nA- < 90% - 86%\nB+ < 86% - 82%\nB < 82% - 78%\nB- < 78% - 74%\nC+ < 74% - 70%\nC < 70% - 66%\nC- < 66% - 62%\nD+ < 62% - 58%\nD < 58% - 54%\nD- < 54% - 50%\nF < 50% - 0%\nPolicies for Course Grade\nProgramming/ML Assignments and Google Colab (Read the policy!)\nProgramming and machine learning assignments will be posted on Webcourses\nand must be completed individually. Students are expected to submit original\nwork and must comply with the AI usage policy described below. All\nassignments must be implemented in Python and submitted as a Google\nColab link. Once an assignment is submitted, no modifications to the Google\nColab notebook are permitted.\nIf you have questions regarding an assignment, you are encouraged to seek\nhelp from the instructor or a teaching assistant during office hours, post\nquestions on the discussion board, or ask general questions in the course\nDiscord server (TAs may participate occasionally). Under no circumstances\nmay you share your code, in part or in full, with other students in this course. If\nyou wish to assist classmates, you may share learning resources or\nconceptual guidance, but not code or solution details.\nLate assignments will not be accepted via email.\nIn-person Exams and Quizzes (Read the policy!)\nExams will test your understanding of the various concepts\ndiscussed in the class, such as understanding of various ML\nalgorithms and theiruse cases, various parameters, data analytics\nconcepts, general ML concepts, cost functions, math behind\nthem, etc. The quizzes and exams will NOT test your coding an\nimplementation of ML model.\nAll 4 quizzes and exams are in-person (It is an in-person class!)\nYou must bring a laptop to take those exams/quizzes in person in",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_grading_policy_2",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 2) | the classroom. Attempting to take the tests outside of the\nclassroom will be considered as cheating and will result in F\ngrade in the class and may be reported to the Office of Student\nConduct\nAccess code will be provided in the class and you must not share\nthe access code with others\nAll exams are closed-books, closed-notes, closed-neighbors,\nclose AI, etc. You are not allowed to open any tab/taks on your\ncomputer other than webcouses quiz you are taking for the tests.\nManage your time efficiently during the exam!!!\nMakeup Work Policy\nMake-up exams and submissions will be very limited. Make-up exams will be given\nin the event of university-excused absences. Excused absences, as defined (or at least\nsuggested) by the Academic Regulations and Procedures governing the university,\nmay include: “serious illness, serious family emergencies, special curricular\nrequirements (e.g., judging trips, field trips, and professional conferences), military\nobligations, severe weather conditions, and religious holidays.” Furthermore,\n“participation in official University-sponsored activities, such as music\nperformances, athletic competition, or debate” constitutes an excused absence.\nNote that living far from the campus, personal vacation, doing job during class time,\nfamily gathering events, job interviews, etc. are not excused reasons to request\nmakeup. You should not schedule anything during the class time as you have\nregistered for this class keeping the class schedule in mind.\nIn the case of planned absences, make-up exams must be arranged with the\ninstructor prior to the absence in question. Of course, some excused absences cannot\nbe foreseen (e.g., illness or serious family emergencies). In these cases, you must",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_grading_policy_3",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 3) | contact the instructor as soon as possible (within 24 hours) to schedule a makeup\nexam. If you do not contact the instructor in a timely manner (typically within\n24 hours of missing the exam), you may be denied a make-up exam.\nAssignment deadlines may be extended in these situations as well, or, in the case of\nplanned absences, you may be required to turn the assignment in early or on time,\ndepending on the nature of the assignment and the circumstances of the absence; this\ndecision is at the discretion of the course instructor. Your best course of action is to\ninform me as early as possible if you know you’re going to be out of town or missing\nclasses for an excused reason!\nMake-up exams and deadline extensions may be granted in other severe situations as\nwell, at the discretion of the instructor. TAs are unable to give extensions. All such\nrequests must go through the course instructor.\nNote that if I made a solution available to all the students for any assignment, then\nthe excused extended deadline will not work for the same assignment. The instructor\nwill assign a different problem in that case.\nAttendance and class participation\nThere is no grade for attendance. However, attending and actively participating\nin the class is critical to grasp the concepts and prepare for the exams.\nAlthough there is no attendance grade, I will randomly take attendance in\ndifferent classes for my recording purpose and it will be taken within the first 2-3\nminutes of the class. Moreover, in case of very low attendance regularly, I might\nannounce in the class about new attendance policy and introduce the\nattendance grade. It might not be announced on the webcourses. I also\nencourage you to bring a laptop to the class. For attendance tracking, we will",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_grading_policy_4",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 4) | use UCF Here web app: https://here.cdl.ucf.edu/\nMake-up Assignments for Authorized University Event or\nCo-curricular Activities\nStudents who represent the university an an authorized event or activity (for\nexample, student athletes) and who are unable to meet a course deadline due\nto a conflict with that event must provide the instructor with documentation in\nadvance to arrange a make-up. No penalty will be applied if the student gives\nadvance notice and communicates with the instructor following UCF policy. In\nthe case of an authorized university activity, it is your responsibility to show the\ninstructor a signed copy of the Program Verification Form for which you will be\nabsent, prior to the class in which the absence occurs or due date you need\nextended. For more information, see UCF Policy 4-401.\nMake-up Assignments for Religious Observances\nA student who desires to observe a religious holy day of his or her religious faith\nmust notify their instructor as soon as practicable prior to the observance.\nStudents who are absent because of religious observances will be permitted a\nreasonable amount of time to complete any missed work. For more information,\nsee UCF Regulation 5-020.\nArtificial Intelligence (AI) Use Policy\nUse of Generative Artificial Intelligence (GenAI) is prohibited. Use of GenAI\ntools via website, app, or any other access, is not permitted in this class. All\ncomponents of assignments in this course must be independently and originally\ncompleted by the student. Representing work created by GenAI as your own\nwork will be treated as plagiarism.\nGuidelines to be successful in this course\nHere are some guidelines to be successful in this course:\nReview prerequisite knowledge in data structures, algorithms, basic\nprobability, and linear algebra as needed.",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_grading_policy_5",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 5) | Be proactive in learning Python; consistent practice outside class is\nessential.\nComplete all programming assignments early to allow time for debugging\nand experimentation.\nFocus on understanding how and why machine learning algorithms\nwork, not just how to run them.\nActively participate in lectures and discussions, and ask questions when\nconcepts are unclear.\nReview the notes thoroughly after the lecture\nPractice exploratory data analysis and visualization to better understand\ndatasets before modeling.\nCarefully analyze experimental results and use appropriate evaluation\nmetrics.\nUse office hours, TA sessions, and discussion forums regularly, do not wait\nuntil deadlines.\nFollow academic integrity policies and submit original work.\nManage time effectively, as machine learning assignments often require\niterative refinement.",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_grading_policy_6",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 1) | Every now and then, someone on my team will make a minor error while grading an\nassignment or an exam. If you want to reviwe your quiz or exam or you think your\nwork is mis-graded, you must bring the matter to me and the TA for resolution within 5\ndays of the assignment or exam having been graded (Except final exam and last\nassignment. They have to be inquired within 6 hours after receiving your grade). In\ngeneral, you need to pick a face to face office hours of the TA who graded this and\ninform the TA about it 24 hours before the office hour so that the TA can bring the\npaper with them. If you want to review the paper with me, then let them know as well\nso that they can send a scanned copy to me and we can review the paper together\ndouring my office hour. In case inquiries for non-exam grading items, you should be\nable to see which TA has graded it. You should write that TA an email and put me in\nthe cc of the email with the inquiry. If you are unable to determine which TA has\ngraded it, send all the TA of your section an email and put me in the cc as discussed in\nthe email policy. If you do not hear back from us for a grading inquiry within 48 hours,\nplease follow-up in the same email thread. [Again, I would like to remind you that, do\nnot use webcourses message while writing to us. Use only your UCF email].\nDisability Access & Accommodations\nThe University of Central Florida is committed to providing equal access to all\nstudents with disabilities (ADHD, learning disabilities, Autism, chronic medical\nconditions, physical disabilities, etc.). To receive consideration for reasonable\ndisability-related course accommodations, disabled students must contact\nStudent Accessibility Services (SAS) and complete the steps required for SAS to",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_grading_policy_7",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 2) | review accommodation requests. More information can be found on the UCF\nStudent Accessibility Services website under the Start Here tab or by contacting\nSAS directly (Ferrell Commons 185; sas@ucf.edu; Phone - 407-823-2371).\nApproved accommodations are shared with course instructors via the SAS\nCourse Accessibility Letter. Implementing certain accommodations may require\ndiscussion and specific considerations of the course design, course learning\nobjectives, and the individual academic and course challenges experienced by\nthe student. While students with disabilities or chronic health needs are also\nencouraged to discuss any course concerns with professors in addition to\ncontacting SAS, professors are not required to facilitate disability-related\nadjustments to the course unless the professor has received a Course\nAccessibility Letter from SAS that outlines approved accommodations.",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_academic_integrity_0",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Academic Integrity (Part 1) | Students should familiarize themselves with UCF’s Code of Conduct at Student\nConduct and Integrity Office. According to Section 1, “Academic Misconduct,”\nstudents are prohibited from engaging in:\na. Academic misconduct is defined as any submitted work or behavior that\nobstructs the instructor of record's ability to accurately assess the\nstudent's understanding or completion of the course materials or degree\nrequirements (e.g., assignment, quiz, and/or exam). Examples of\nacademic misconduct include but are not limited to: plagiarism,\nunauthorized assistance to complete an academic exercise; unauthorized\ncommunication with others during an examination, course assignment, or\nproject; falsifying or misrepresenting academic work; providing misleading\ninformation to create a personal advantage to complete course/degree\nrequirements; or multiple submission(s) of academic work without\npermission of the instructor of record.\nb. Any student who knowingly helps another violate academic behavior\nstandards is also in violation of the standards.\nc. Commercial Use of Academic Material. Selling of course material to\nanother person and/or uploading course material to a third-party vendor\nwithout authorization or without the express written permission of the\nUniversity and the instructor of record. Course materials include but are\nnot limited to class notes, the instructor of record's slide deck, tests,\nquizzes, labs, instruction sheets, homework, study guides, and handouts.\nd. Soliciting assistance with academic coursework and/or degree\nrequirements. The solicitation of assistance with an assignment, lab, quiz,\ntest, paper, etc., without authorization of the instructor of record or\ndesignee is prohibited. This includes but is not limited to asking for",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
       "term": "Summer 2026",
       "section_name": "Academic Integrity",
-      "source_file": "CAP 4053 B001 AI FOR GAME PROGRAMMING - Simple Syllabus.pdf"
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_academic_integrity_1",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Academic Integrity (Part 2) | answers to a quiz, trading answers, or offering to pay another to complete\nan assignment. It is considered Academic Misconduct to solicit assistance\nwith academic coursework and/or degree requirements, even if the\nsolicitation did not yield actual assistance (for example, if there was no\nresponse to the solicitation).\nResponses to Academic Dishonesty, Plagiarism, or Cheating\nStudents should also familiarize themselves with the procedures for academic\nmisconduct in UCF’s student handbook, The Golden Rule. UCF faculty\nmembers have a responsibility for students’ education and the value of a UCF\ndegree, and so seek to prevent unethical behavior and respond to academic\nmisconduct when necessary. Penalties for violating rules, policies, and\ninstructions within this course can range from a zero on the exercise to an “F”\nletter grade in the course. In addition, an Academic Misconduct report could be\nfiled with the Office of Student Conduct and Academic Integrity, which could\nlead to disciplinary warning, disciplinary probation, or deferred suspension or\nseparation from the University through suspension, dismissal, or expulsion with\nthe addition of a “Z” designation on one’s transcript.\nBeing found in violation of academic conduct standards could result in a\nstudent having to disclose such behavior on a graduate school application,\nbeing removed from a leadership position within a student organization, the\nrecipient of scholarships, participation in University activities such as study\nabroad, internships, etc.\nTitle IX\nTitle IX prohibits sex discrimination, including sexual misconduct, sexual\nviolence, sexual harassment, and retaliation. If you or someone you know has\nbeen harassed or assaulted, you can find resources available to support the",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_academic_integrity_2",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Academic Integrity (Part 3) | victim, including confidential resources and information concerning reporting\noptions at Let's Be Clear and UCF Cares.\nFor more information on access and community engagement, Title IX,\naccessibility, or UCF's complaint processes contact:\nTitle IX – ONAC – Office of Nondiscrimination & Accommodations\nCompliance & askanadvocate@ucf.edu\nDisability Accommodation – Student Accessibility Services – Student\nAccessibility Services & sas@ucf.edu\nAccess and Community Engagement (including the Ginsberg Center for\nInclusion and Community Engagement, Military and Veteran Student\nSuccess, and HSI Initiatives)\nUCF Compliance and Ethics Office – Compliance, Ethics, and Risk Office\n& complianceandethics@ucf.edu\nThe Ombuds Office is a safe place to discuss concerns.\nReporting an Incident or Issue\nIf you believe you have experienced discrimination by any faculty or staff member,\ncontact the Office of Nondiscrimination & Accommodations Compliance via the ONAC\nwebsite or at 407-823-1336. You can also choose to report using the UCF Integrity Line\neither anonymously or as yourself at 1-855-877-6049 or by using the online form. UCF\ncares about you and takes every report seriously. For more information see\nthe Reporting an Incident or Issue Webpage.\nDeployed Active-Duty Military Students\nStudents who are deployed active duty military and/or National Guard personnel\nand require accommodation should contact their instructors as soon as possible\nafter the semester begins and/or after they receive notification of deployment to\nmake related arrangements.\nCampus Safety\nAt UCF Public Safety and Police, safety is the top priority. Emergencies on\ncampus are rare, but if one should arise, it's important to be familiar with some\nbasic safety and security concepts.\nIn an emergency, always dial 911.",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_academic_integrity_3",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Academic Integrity (Part 4) | Every UCF classroom has an Emergency Procedure Guide posted on a\nwall near the door, which will show you how to respond to a variety of\nsituations. This guide can also be found online here.\nIn the event of an active threat, remember AVOID, DENY, DEFEND.\nChoose the best course of action and act immediately. Watch the video\nhere to learn more.\nAVOID. Pay attention to your surroundings and have an exit plan.\nGet as much distance and as many barriers between you and the\nthreat as quickly as possible.\nDENY. When avoiding is difficult or impossible, deny the threat\naccess to you and your space. Lockdown by creating barriers,\nturning the lights off and remaining quiet and out of sight. Make sure\nyour cell phone is silenced, but do not turn it off.\nDEFEND. When you are unable to put distance between yourself\nand the threat, be prepared to protect yourself. Commit to your\nactions, be aggressive and do not fight fairly. Do whatever it takes to\nsurvive.\nFor emergencies on campus, UCF will utilize the UCF Alert system. All\nUCF students, faculty and staff are automatically enrolled to receive these\nemail and text alerts, however, it's a good idea to frequently ensure your",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Academic Integrity",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_contact_information_3",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Contact Information (Part 1) | Financial Aid Accountability\nAll instructors/faculty are required to document students’ academic activity at\nthe beginning of each course. In order to document that you began this course,\nplease complete this activity by the end of the first week of classes or as soon\nas possible after adding the course. Failure to do so may result in a delay in the\ndisbursement of your financial aid.\nClass Schedule\nTentative Schedule:\nThe following table presents the tentative schedule for lectures, quizzes,\nassignments, and exams. Depending on circumstances, some lectures may be\nconducted earlier or carried over to subsequent sessions. Any changes to the\nassignment or quiz schedule will be announced both in class and on\nWebcourses. Students are advised to check Webcourses regularly for exercise\nand lab submission deadlines, as these may vary by time of day. Additional\ndetails are provided in the exercise submission policy.\nSuggested\nRelated\nWeek DATE Lecture Topic Optional\nAssignments\nReading/video\nAcademic\nEngagement Quiz\nWeek 1 Datacamp\nNo class on Tuesday\nDatacamp Data\n(May 12)\nScience Track:\nFirst lecture Thursday,\nRequired:\nMay 14)\nIntroduction to\nCourse structure and\nPython\nsyllabus discussion;\nIntermediate\nPython\nChapter 1\nIntroduction: Introduction\nPython for Data\n[HOML]\nof various concepts of ML\nScience Toolbox\nas an overview, such as (Part 1)\nChapter 2\n1\ndefinition and examples Data Manipulation\nMay [HOML]\nwith Pandas\nof ML and use cases, ML\n11 –\nNotes: Check Introduction to\nprocess, types of ML\nMay17\nData Visualization\nModule\nproblems, supervised,\nwith Matplotlib\nunsupervised,\nOptional:\nreinforcement, various\nPython for\nways of learning,\nData Science\nchallenges of ML,\nToolbox (Part\noverfitting/underfitting, 2)\nregularization, testing and Joining Data\nwith Pandas\nvalidation",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_contact_information_4",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Contact Information (Part 2) | (Going through\nthe Iterator\ntopic is\nstrongly\nrecommended)\nWeek 2 data camp\nDatacamp Data\nScience Track:\nChapter 3\nRequired:\nContinue the remaining\n[HOML]\nparts from the Introduction to\nintroduction; Chapter 4 Data Visualization\n[HOML] with Seaborn\nExploratory Data Intermediate Data\nAnalysis: Necessitiy of Notes: Check Visualization with\nModule Seaborn\ndata exploration, ML\nData Cleaning in\nworkflow, data types,\n2 May Datacamp Data Python\nfeature extraction, data\n18– Science Track:\nOptional:\nquality issues, plotting\nMay\nStatistical\n24 and visually explore Thinking Introduction to\nrelationships between Python (Part Importing Data in\nPython\nvariables, sampling 1)\nIntermediate\ntechniques, Coding for Statistical\nImporting Data in\nThinking\ndata exploration Python\nPython (Part\n2) Working with\nDates and Times\nin Python\nWriting Functions\nin Python\nChapter 5\n[HOML]\nChapter 6\n[HOML]\nNotes: Check\nContinue data Module\nexploration.\nDatacamp\nClassification and Machine Learning",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Contact Information",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_grading_policy_8",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 1) | and various types of Week 3 Datacamp\nSupervised\n3 May\nclassification problems, Learning with\nRequired:\n25– scikit-learn\nstrategies for model\nExploratory Data\nMay Preprocessing\nperformance evaluations, Analysis in Python\nfor Machine\n31\nand various matrices,\nLearning in\ncross-validation, dealing Python\nwith time series data, Feature\nEngineering\nfor Machine\nLearning in\nPython\nModel\nValidation in\nPython\nChapter 7\n[HOML]\nChapter 8\n[HOML]\nIn class quiz 1 on\nTuesday.\nAssignment 1 due:\nDatacamp\nExploratory Data\nMachine\nAnalysis using\nLearning\nContinue Classification\nPython (alert:\nJune\nScientist\nand Evaluatoin;\nlengthy assignment)\n01 –\nTrack:\n4\nJune Linear Regression;\nIn class quiz 1 on\nLinear\n07 Gradient descent,\nClassifiers Tuesday;\nstochastic gradient in Python\ndescent and related Machine\ntopics, Learning\nfor Time\nSeries\nData in\nPython\nHyperpara\nmeter\nTuning in\nPython\nChapter 9\n[HOML]\nContinue regression Chapter 10\nmodels; [HOML]\npolynomial regression and Datacamp\nregularized models Machine\nLearning\nLogistic regression;\n5 June Scientist\n08 – Track:\nJune\nMachine\n14 Learning\nwith Tree-\nBased\nModels in\nPython\nWinning a\nKaggle\nCompetiti\non in\nPython\nChapter 11\n[HOML]\nContinue logistic Chapter 12\nregression; [HOML]\nsoftmax regression; Datacamp\nJune\nMachine\n15 –\nKNN Classifier;\n6\nLearning\nJune\nScientist\n21\nTrack:\nExtreme\nGradient\nBoosting\nwith\nXGBoost\nChapter 13\n[HOML]\nIn person quiz 2 on\nTuesday; Datacamp\nJune Machine\n22 – Learning\n7\nIn person quiz 2 on\nJune Naive Bayes classifier; Scientist\nTuesday;\n28 Track:\nIn-class midterm exam\nDimension\non Thursday,\nality\nReduction\nin Python\nChapter 14\n[HOML]\nDatacamp\nSupport Vector Machines;\nMachine\nJune Decision Tree; Learning\n29 – Scientist\nEnsemble Learning,\n8\nJul 05 Track:\nRandom Forests, and\nBoosting Unsupervi\nsed\nLearning\nin Python",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_grading_policy_9",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 2) | Cluster\nAnalysis in\nPython\nChapter 15\n[HOML]\nhttp://d2l.ai/c\nhapter_linear-\nnetworks/inde\nx.html\nhttp://d2l.ai/c\nDimensionality Reduction hapter_multila\nand PCA yer-\nperceptrons/i\nUnsupervised Learning:\nndex.html\nClustering\nhttps://www.d\nJul 06\n9\neeplearningbo\n- Jul\nok.org/conten\n12\nts/mlp.html\nDatacamp\nMachine\nLearning\nScientist\nTrack:\nIntroductio\nn to\nTensorFlo\nw in\nPython\nChapter 16\n[HOML]\nhttp://d2l.ai/chapt\ner_deep-learning-\ncomputation/inde\nx.html\nhttps://www.deep\nlearningbook.org/\nIn person Quiz 3 contents/regulariz\nTuesday ation.html\nhttps://www.deep Assignment 4 due\nJul 13 Natural language Sunday: Clustering\n10 learningbook.org/\nprocessing (NLP); (Medium length\n- Jul\ncontents/optimiza\nassignment)\n19\nIntroduction to neural tion.html\nnetwork\nDatacamp\nMachine Learning\nScientist Track:\nIntroduction\nto Deep\nLearning in\nPython\nIntroduction\nto Deep\nLearning with\nKeras\nChapter 17\n[HOML]\nhttp://d2l.ai/c\nhapter_convol\nutional-\nneural-\nnetworks/inde\nx.html\nhttp://d2l.ai/c\nhapter_convol\nutional-\nmodern/index\nAssignment 5: NLP\n.html\nand deep learning\nConvolutional Neural https://www.d\n(Shorter\nNetworks and Keras; eeplearningbo\nassignment)\nJul 06 ok.org/conten\n11\nAssociation Rule Mining\n- Jul ts/convnets.ht\n12 Quiz 4 Thursday (may ml\nQuiz 4 thursday (may\nmove to next Tuesday as\nDatacamp move to next Tuesday\nwell)\nMachine as well)\nLearning\nScientist\nTrack:\nImage\nProcessin\ng in\nPython\nImage\nProcessin\ng with\nKeras in\nPython\n12\nhttp://d2l.ai/c Assignment 6 due\nhapter_recurr on Sunday: CNN\nJuly Transformer and attention\nent-neural- (Shorter\n27 – mechanism(if we get time)\nnetworks/inde assignment)\nAug\nFinal Exam- During x.html\n02 Final exam Thursday\nhttp://d2l.ai/c\nthe last lecture\nhapter_recurr\non Thursday, Jul 30,\nent-\n2026\nmodern/index.\nhtml\nhttps://www.d\neeplearningbo",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
+    }
+  },
+  {
+    "id": "syllabus_cap4611_grading_policy_10",
+    "text": "Course: CAP4611 | Instructor: Tanvir Ahmed | Section: Grading Policy (Part 3) | ok.org/conten\nts/rnn.html\nDatacamp\nMachine\nLearning\nScientist\nTrack:\nIntroductio\nn to\nNatural\nLanguage\nProcessin\ng in\nPython\nFeature\nEngineerin\ng for NLP\nin Python\nDatacamp\nMachine\nLearning\nScientist\nTrack:\nAdvan\nced\nDeep\nLearnin\ng with\nKeras\nGrades due by Wednesday, August 5, 2026 12:00 PM (Noon)\n* HOML = Hands-on Machine Learning",
+    "source": "Syllabus - CAP4611 (Summer 2026)",
+    "source_type": "syllabus",
+    "metadata": {
+      "review_type": "syllabus",
+      "course_code": "CAP4611",
+      "original_course_code": "CAP4611",
+      "instructor": "Tanvir Ahmed",
+      "term": "Summer 2026",
+      "section_name": "Grading Policy",
+      "source_file": "CAP 4611 C001 ALG. FOR MACHINE LEARNING - Simple Syllabus.pdf"
     }
   }
 ]

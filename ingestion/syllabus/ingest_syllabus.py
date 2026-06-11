@@ -91,6 +91,24 @@ def split_text_into_subchunks(text, max_chars=1800, overlap=150):
             
     return final_subchunks
 
+def is_noise_line(line):
+    """
+    Identifies common Simple Syllabus header/footer noise lines.
+    """
+    stripped = line.strip()
+    if not stripped:
+        return False
+    # Simple Syllabus URL footer (with optional page number like 1/26)
+    if re.search(r'https?://[^\s]*simplesyllabus\.com[^\s]*(?:\s+\d+/\d+)?', stripped, re.I):
+        return True
+    # Simple Syllabus print header with timestamp and course info
+    if re.search(r'^\d{1,2}/\d{1,2}/\d{2,4},?\s+\d{1,2}:\d{2}\s*(?:AM|PM)?\s+.*?-\s*Simple Syllabus', stripped, re.I):
+        return True
+    # Page break placeholder
+    if "--- PAGE BREAK ---" in stripped:
+        return True
+    return False
+
 def process_syllabus_sections(raw_record):
     """
     Parses a single raw syllabus record into chunks by section.
@@ -118,8 +136,6 @@ def process_syllabus_sections(raw_record):
             return
         
         section_text = "\n".join(current_lines).strip()
-        # Clean extra text indicators
-        section_text = section_text.replace("--- PAGE BREAK ---", "")
         section_text = re.sub(r'\n{3,}', '\n\n', section_text).strip()
         
         if not section_text or len(section_text) < 20:
@@ -161,9 +177,10 @@ def process_syllabus_sections(raw_record):
                 }
             }
             chunks.append(chunk_obj)
-
-            
+ 
     for line in lines:
+        if is_noise_line(line):
+            continue
         matched_section = find_matching_section(line)
         if matched_section:
             # Flush existing section
