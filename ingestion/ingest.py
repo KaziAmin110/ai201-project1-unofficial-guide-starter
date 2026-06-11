@@ -22,6 +22,7 @@ from ingestion.rmp.download_rmp_professors import main as download_rmp_main
 from ingestion.rmp.ingest_rmp import main as ingest_rmp_main
 from ingestion.syllabus.parse_pdf import main as parse_pdf_main
 from ingestion.syllabus.ingest_syllabus import main as ingest_syllabus_main
+from ingestion.catalog.ingest_catalog import main as ingest_catalog_main
 from ingestion.validate_chunks import validate_chunks
 
 def run_step(step_name, func, *args, **kwargs):
@@ -57,11 +58,15 @@ def main():
     # 6. Process/Chunk Syllabus Data
     run_step("Process/Chunk Syllabus Data", ingest_syllabus_main)
     
-    # 7. Validate Chunks
+    # 7. Process/Chunk Catalog Data
+    run_step("Process/Chunk Catalog Data", ingest_catalog_main)
+    
+    # 8. Validate Chunks
     documents_dir = os.path.join(project_root, "documents")
     reddit_chunks_path = os.path.join(documents_dir, "chunks", "reddit_chunks.json")
     rmp_chunks_path = os.path.join(documents_dir, "chunks", "rmp_chunks.json")
     syllabus_chunks_path = os.path.join(documents_dir, "chunks", "syllabus_chunks.json")
+    catalog_chunks_path = os.path.join(documents_dir, "chunks", "catalog_chunks.json")
     
     logging.info("==================================================")
     logging.info("Starting step: Validate Chunks")
@@ -70,8 +75,9 @@ def main():
     reddit_ok = validate_chunks(reddit_chunks_path)
     rmp_ok = validate_chunks(rmp_chunks_path)
     syllabus_ok = validate_chunks(syllabus_chunks_path)
+    catalog_ok = validate_chunks(catalog_chunks_path)
     
-    if reddit_ok and rmp_ok and syllabus_ok:
+    if reddit_ok and rmp_ok and syllabus_ok and catalog_ok:
         logging.info("Validation PASSED successfully for all chunks.")
     else:
         logging.error("Validation FAILED! Please check the parser outputs.")

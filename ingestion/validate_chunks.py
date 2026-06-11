@@ -48,8 +48,8 @@ def validate_chunks(filepath: str) -> bool:
         # 3. Check metadata keys
         metadata = chunk["metadata"]
         review_type = metadata.get("review_type")
-        if review_type not in ("school", "professor", "reddit_thread", "syllabus"):
-            print(f"ERROR [Chunk {chunk_id}]: 'review_type' must be 'school', 'professor', 'reddit_thread' or 'syllabus', got {review_type}")
+        if review_type not in ("school", "professor", "reddit_thread", "syllabus", "catalog"):
+            print(f"ERROR [Chunk {chunk_id}]: 'review_type' must be 'school', 'professor', 'reddit_thread', 'syllabus' or 'catalog', got {review_type}")
             errors += 1
             
         if "source_file" not in metadata:
@@ -85,6 +85,26 @@ def validate_chunks(filepath: str) -> bool:
                 print(f"ERROR [Chunk {chunk_id}]: Syllabus metadata missing keys: {missing_syllabus_keys}")
                 errors += 1
                 
+        elif review_type == "catalog":
+            catalog_req_keys = {"url", "breadcrumbs", "parent_id", "heading"}
+            missing_catalog_keys = catalog_req_keys - set(metadata.keys())
+            if missing_catalog_keys:
+                print(f"ERROR [Chunk {chunk_id}]: Catalog metadata missing keys: {missing_catalog_keys}")
+                errors += 1
+            else:
+                if not isinstance(metadata["url"], str):
+                    print(f"ERROR [Chunk {chunk_id}]: Metadata 'url' must be a string, got {type(metadata['url'])}")
+                    errors += 1
+                if not isinstance(metadata["breadcrumbs"], list):
+                    print(f"ERROR [Chunk {chunk_id}]: Metadata 'breadcrumbs' must be a list, got {type(metadata['breadcrumbs'])}")
+                    errors += 1
+                if not isinstance(metadata["parent_id"], str):
+                    print(f"ERROR [Chunk {chunk_id}]: Metadata 'parent_id' must be a string, got {type(metadata['parent_id'])}")
+                    errors += 1
+                if not isinstance(metadata["heading"], str):
+                    print(f"ERROR [Chunk {chunk_id}]: Metadata 'heading' must be a string, got {type(metadata['heading'])}")
+                    errors += 1
+                
         # 4. Check text length and quality
         text = chunk["text"]
         char_count = len(text)
@@ -108,6 +128,9 @@ def validate_chunks(filepath: str) -> bool:
             warnings += 1
         elif review_type == "syllabus" and not text.startswith("Course: "):
             print(f"WARNING [Chunk {chunk_id}]: Syllabus chunk text should start with 'Course: ' prefix")
+            warnings += 1
+        elif review_type == "catalog" and not text.startswith("[Undergraduate Catalog"):
+            print(f"WARNING [Chunk {chunk_id}]: Catalog chunk text should start with '[Undergraduate Catalog' prefix")
             warnings += 1
 
             

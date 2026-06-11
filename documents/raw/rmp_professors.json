@@ -6291,6 +6291,22 @@
     "professor_name": "Arup Guha",
     "department": "Computer Science",
     "school_name": "University of Central Florida",
+    "course_code": "COP3502C",
+    "quality_rating": 1,
+    "difficulty_rating": 5,
+    "date": "Jun 11, 2026",
+    "comment": "Bro didn't like me take his class",
+    "details": {
+      "attendance_mandatory": "N/A",
+      "grade_received": "Drop/Withdrawal",
+      "textbook_used": "N/A",
+      "for_credit": "N/A"
+    }
+  },
+  {
+    "professor_name": "Arup Guha",
+    "department": "Computer Science",
+    "school_name": "University of Central Florida",
     "course_code": "COP3502",
     "quality_rating": 1,
     "difficulty_rating": 5,

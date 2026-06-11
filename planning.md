@@ -52,7 +52,7 @@ Because the sources consists of four distinct types of documents (short reviews,
    - **Overlap:** 0 (logical threading).
    - **Strategy:** _Thread-Level / Q&A Pairing_. Individual replies and comments lose meaning without the post context. Chunks are flattened into Q&A text pairs containing the original post's title/content alongside the comments/replies.
 
-3. **UCF Simple Syllabus Repository (Structured/Sectional):**
+3. **UCF Simple Syllabus Repository (Structured/Sectional) [Completed]:**
    - **Chunk size:** Variable by section (~300–800 tokens / 1200–3000 characters).
    - **Overlap:** 0–50 characters (split strictly on headers).
    - **Strategy:** _Markdown Header/Section-Based Chunking_. Syllabi are parsed and split by logical markdown sections (e.g., `# Grading Policy`, `# Course Schedule`, `# Textbooks`). Chunks are prefixed with the syllabus course identifier (e.g., `Course: COP3502C | Professor: Szumlanski`).
